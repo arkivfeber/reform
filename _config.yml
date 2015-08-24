@@ -1,7 +1,7 @@
 # Site settings
 title: Travelogue
 
-baseurl: '/github-pages-test' # the subpath of your site, e.g. /blog
+baseurl: '/reform' # the subpath of your site, e.g. /blog
 url: 'http://sigmunjr.github.io' # the base hostname & protocol for your site
 
 # Build settings
