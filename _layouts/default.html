@@ -5,27 +5,32 @@
 
 <body>
 
-    {% include loader.html %}
+{% if page.ispost %}
+<div class="filler-block" style="height:100%"></div>
+{% endif %}
+{% include loader.html %}
 
-    <main id="sb-site">
-
-        <div class="container">
-            <div class="wrapper">
-                {{ content }}
-            </div>
-
-            {% include pagination.html %}
-
-            {% include next.html %}
-
+<main id="sb-site">
+    <div class="container">
+        <div class="wrapper">
+            {{ content }}
         </div>
 
-    </main>
+        {% include pagination.html %}
 
-    {% include sidebar.html %}
+        {% include next.html %}
 
-    {% include js.html %}
+    </div>
 
+</main>
+
+{% include sidebar.html %}
+
+{% include js.html %}
+
+<div class="background">
+    <img src="{{page.backgrounds[0]}}">
+</div>
 </body>
 
 </html>
