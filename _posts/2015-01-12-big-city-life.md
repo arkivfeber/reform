@@ -3,8 +3,7 @@ layout: post
 title: Big City Life
 date: '2015-07-30 18:21'
 backgrounds:
-  - 'https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/vanilla.jpeg'
-  - 'https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/morning.jpeg'
+  - 'https://dl.dropboxusercontent.com/u/44736485/Geometri/Test2.jpg'
 thumb: 'https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/the-bridge.jpeg'
 categories: travel city
 tags: work business metropolis
