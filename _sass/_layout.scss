@@ -93,11 +93,12 @@
     > li {
         border: 10px solid transparent;
         color: $text-color-light;
-        flex-grow: 1;
-        height: 200px;
+        flex: 1;
+        //flex-grow: 1;
+        //height: 200px;
         overflow: hidden;
         position: relative;
-        width: 46%;
+        //width: 46%;
 
         @include transition($transition-base);
 
@@ -105,9 +106,9 @@
         //     width: 100%;
         // }
 
-        &:last-child {
-            margin-bottom: $spacing-unit;
-        }
+        //&:last-child {
+        //    margin-bottom: $spacing-unit;
+        //}
 
         &:hover {
             border-color: $grey-color-light;
