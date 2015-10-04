@@ -19,6 +19,9 @@ sass:
     style:    compressed
     sourcemap: auto
 
+gems:
+  - autoprefixer-rails
+  - jekyll-assets
 
 defaults:
   -
