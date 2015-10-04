@@ -6,7 +6,7 @@
 <body>
 
 {% if page.ispost %}
-<div class="filler-block" style="height:100%"></div>
+<div class="filler-block" style="height:1080px;"></div>
 {% endif %}
 {% include loader.html %}
 
@@ -16,15 +16,11 @@
             {{ content }}
         </div>
 
-        {% include pagination.html %}
-
         {% include next.html %}
 
     </div>
 
 </main>
-
-{% include sidebar.html %}
 
 {% include js.html %}
 
@@ -32,5 +28,5 @@
     <img src="{{page.backgrounds[0]}}">
 </div>
 </body>
-
+{% include sidebar.html %}
 </html>

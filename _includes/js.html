@@ -1,10 +1,77 @@
 <script type="text/javascript" src="{{ "/assets/js/libs/jquery.min.js" | prepend: site.baseurl }}"></script>
-<script type="text/javascript" src="{{ "/assets/js/libs/slidebars.min.js" | prepend: site.baseurl }}"></script>
 <script type="text/javascript" src="{{ "/assets/js/libs/jquery.scrollstop.js" | prepend: site.baseurl }}"></script>
 <script type="text/javascript" src="{{ "/assets/js/libs/rrssb.min.js" | prepend: site.baseurl }}"></script>
 <script type="text/javascript" src="{{ "/assets/js/functions.js" | prepend: site.baseurl }}"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.1.5/js/swiper.jquery.min.js"></script>
 <script type="text/javascript">
-    $(function($) {
-        $.slidebars();
-    });
 </script>
+
+  <script>
+        
+        $(document).ready(function() {
+          var shouldShow = false;
+          
+          var menu = $('.sb-menu');
+          var topbar = $('.topbar');
+          var topBarButton = $('.sb-toggle-top');
+          var menuHeight = menu.height();
+         
+          topbar.hide();
+          
+          $('.filler-block').height($(window).height());
+          
+          var menuLinks = $('.sb-menu a');
+          var body = $('body');
+          
+          menuLinks.click(function(event) {
+            var target = event.currentTarget.getAttribute('href');
+            if (target === '#') {
+              event.preventDefault();
+              body.animate({scrollTop: 0});
+              return false;
+            }
+            var targetElm = $(target);
+            if (targetElm.length) {
+              event.preventDefault();
+              body.animate({scrollTop: targetElm.offset().top - menuHeight})
+              return false;
+            } 
+            return true;
+          })
+          
+          topBarButton.click(function() {
+            shouldShow = true;
+            showTopBar();
+          });
+          
+          var showTopBar = function () {
+            topBarButton.fadeOut(50);
+            topbar.slideDown();
+          }
+          
+          var hideTopBar = function () {
+            topbar.slideUp(200, function() {
+              topBarButton.show();
+            });
+          }
+          
+          $(window).on('scroll', function() {
+            if (body.scrollTop() < 10) {
+              if (!shouldShow) hideTopBar();
+              return;
+            }
+            shouldShow = false;
+            if(topbar.css('display') == 'none') {
+              showTopBar();
+            }
+          });
+    //initialize swiper when document ready  
+      var mySwiper = new Swiper ('.swiper-container', {
+      // Optional parameters
+
+      nextButton: '.swiper-button-next',
+      prevButton: '.swiper-button-prev',
+      loop: true
+    })     
+  });      
+  </script>

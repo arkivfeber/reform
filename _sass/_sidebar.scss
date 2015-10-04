@@ -2,7 +2,32 @@
    SIDEBAR
    ========================================================================== */
 
-.sb-toggle-left {
+.topbar {
+    position: fixed;
+
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    
+    .sb-menu {
+        margin: 0;
+    }
+    
+    ul {
+        list-style: none;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+    
+    li a, li a h2 {
+        margin: 16px 0;
+        color: white;       
+    }
+}
+
+.sb-toggle-top {
     height: 54px;
     left: $spacing-unit / 2;
     position: fixed;

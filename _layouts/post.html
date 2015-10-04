@@ -5,52 +5,27 @@ ispost: true
 <div class="post">
 
     <header class="post-header">
-        {% if page.thumb %}
-        <img src="{{ page.thumb }}" alt="{{ page.title }}" class="post-thumb" />
-        {% endif %}
-
         <h1 class="post-title">{{ page.title }}</h1>
     </header>
+    
+    <div id="referanser" class="swiper-container" style="margin-bottom: 50px">
+            <div class="swiper-wrapper">
+        <!-- Slides -->
+            {% for referanse in page.referanser %}
+                <div class="swiper-slide">
+                    <img src={{referanse}} />
+                </div>
+            {% endfor %}
+            </div>
+            <div class="swiper-button-prev swiper-button-white"></div>
+            <div class="swiper-button-next swiper-button-white"></div>
+    </div>
+
+    </div>
 
     <article class="post-content">
         {{ content }}
     </article>
 
-    <footer class="post-meta">
-        {% if page.date %}
-        <div class="meta">
-            <h3 class="meta-title">Date</h3>
-            <span class="meta-content">{{ page.date | date: "%B %-d, %Y" }}</span>
-        </div>
-        {% endif %}
-        {% if page.author %}
-        <div class="meta">
-            <h3 class="meta-title">Author</h3>
-            <span class="meta-content">{{ page.author }}</span>
-        </div>
-        {% endif %}
-        {% if page.show_categories %}
-        <div class="meta">
-            <h3 class="meta-title">Categories</h3>
-            <span class="meta-content">
-                {% for category in page.categories %}
-                    {{ category | capitalize }}&nbsp;
-                {% endfor %}
-            </span>
-        </div>
-        {% endif %}
-        {% if page.show_tags %}
-        <div class="meta">
-            <h3 class="meta-title">Tags</h3>
-            <span class="meta-content">
-                {% for tag in page.tags %}
-                    {{ tag | capitalize }}&nbsp;
-                {% endfor %}
-            </span>
-        </div>
-        {% endif %}
-    </footer>
-
-    {% include share.html %}
 
 </div>

@@ -4,26 +4,27 @@ home: true
 ---
 
 <div class="home">
-    <ul class="post-list">
-        {% if site.pagination %}
-        {% assign source = paginator.posts %}
-        {% else %}
-        {% assign source = site.posts %}
-        {% endif %}
+    {% if site.pagination %}
+    {% assign source = paginator.posts %}
+    {% else %}
+    {% assign source = site.posts %}
+    {% endif %}
 
-        {% for post in source %}
-        <li>
+    {% for post in source reversed %}
+    {% assign newlist = forloop.index0 | modulo:11 %}
+    {% if newlist == 0 %} <ul class="post-list"> {% endif %}
+        <li {% if forloop.index == 17 %} class="big" {% endif %}>
             <a href="{{ post.url | prepend: site.baseurl }}" class="post-list-link">
+                <img src="{{ post.thumb }}" class="post-list-thumb"/>
                 <!--<div class="post-list-info">-->
-                    <!--<h2 class="post-list-title">{{ post.title }}</h2>-->
-                    <!--<span class="post-list-meta">{{ post.date | date: "%B %-d, %Y" }}</span>-->
+                <!--<h2 class="post-list-title">{{ post.title }}</h2>-->
+                <!--<span class="post-list-meta">{{ post.date | date: "%B %-d, %Y" }}</span>-->
                 <!--</div>-->
             </a>
 
-            <img src="{{ post.thumb }}" class="post-list-thumb" />
         </li>
-        {% endfor %}
-    </ul>
+    {% if newlist == 10 %} </ul> {% endif %}
+    {% endfor %}
 
     <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
     <!-- <p class="rss-subscribe">
