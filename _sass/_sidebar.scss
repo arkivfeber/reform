@@ -2,32 +2,38 @@
    SIDEBAR
    ========================================================================== */
 
-.topbar {
+.sb-right {
     position: fixed;
 
     top: 0;
     z-index: 1000;
-    width: 100%;
-    background-color: rgba(0, 0, 0, 0.5);
-    
+    background-color: rgba(250, 250, 250, 0.9);
+
     .sb-menu {
+        padding: 20px 0;
         margin: 0;
     }
-    
+
     ul {
         list-style: none;
-        display: flex;
-        justify-content: space-around;
-        align-items: center;
     }
-    
-    li a, li a h2 {
-        margin: 16px 0;
-        color: white;       
+
+    li a {
+        cursor: pointer;
+        display: block;
+        padding: 16px 20px;
+        color: $text-color;
+
+        h2 {
+            margin: 10px 0;
+        }
+        &:hover {
+            background-color: rgba(0,0,0,0.05);
+        }
     }
 }
 
-.sb-toggle-top {
+.sb-toggle-right {
     height: 54px;
     left: $spacing-unit / 2;
     position: fixed;
@@ -73,7 +79,11 @@
     }
 }
 
-.sb-slidebar {
+::-webkit-scrollbar {
+    display: none;
+}
+
+.sb-slidebare {
     background: $dark-color;
     color: $text-color-light;
     letter-spacing: 1px;

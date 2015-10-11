@@ -10,7 +10,7 @@
 {% endif %}
 {% include loader.html %}
 
-<main id="sb-site">
+<main id="sb-site" style="min-height: inherit;">
     <div class="container">
         <div class="wrapper">
             {{ content }}
@@ -28,5 +28,8 @@
     <img src="{{page.backgrounds[0]}}">
 </div>
 </body>
+{% if page.ispost %}
 {% include sidebar.html %}
+{% endif %}
+
 </html>
