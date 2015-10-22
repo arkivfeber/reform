@@ -35,10 +35,6 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
-main {
-    position: relative;
-}
-
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
@@ -173,7 +169,6 @@ pre {
 .wrapper {
     margin-left: auto;
     margin-right: auto;
-    width: 100%;
     //max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
     //max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
     @extend %clearfix;

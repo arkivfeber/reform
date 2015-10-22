@@ -3,6 +3,17 @@ layout: default
 home: true
 ---
 
+<style>
+    body {
+        padding: 40px;
+    }
+    main {
+        position: relative;
+        padding: 7% 0;
+        border: 10px solid black;
+    }
+</style>
+
 <div class="home">
     {% if site.pagination %}
     {% assign source = paginator.posts %}
@@ -26,6 +37,7 @@ home: true
     {% if newlist == 10 %} </ul> {% endif %}
     {% endfor %}
 
+
     <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
     <!-- <p class="rss-subscribe">
         <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
@@ -33,4 +45,9 @@ home: true
             <i class="icon ion-social-rss"></i>
         </a>
     </p> -->
+</div>
+<div class="signatur">
+    <div style="font-size: 32px; margin-bottom: 8px; letter-spacing: 3px;">REFORM</div>
+    <div style="color:#ddd; font-size: 14px; margin-bottom: 8px;">Markus Li Stensrud</div>
+    <div style="color:#ddd; font-size:12px;">Amalie Skram vgs, 2015</div>
 </div>
