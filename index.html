@@ -5,11 +5,11 @@ home: true
 
 <style>
     body {
-        padding: 40px;
+        padding: 5.5% 6.5% 0 6.5%;
     }
     main#sb-site {
         position: relative;
-        padding: 6.5% 0 7.5% 0;
+        padding: 5.5% 0 6.5% 0;
         border: 10px solid black;
     }
 </style>
@@ -27,10 +27,6 @@ home: true
         <li {% if forloop.index == 17 %} class="big" {% endif %}>
             <a href="{{ post.url | prepend: site.baseurl }}" class="post-list-link">
                 <img src="{{ post.thumb }}" class="post-list-thumb"/>
-                <!--<div class="post-list-info">-->
-                <!--<h2 class="post-list-title">{{ post.title }}</h2>-->
-                <!--<span class="post-list-meta">{{ post.date | date: "%B %-d, %Y" }}</span>-->
-                <!--</div>-->
             </a>
 
         </li>
@@ -38,17 +34,9 @@ home: true
     {% endfor %}
 
 
-
-    <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
-    <!-- <p class="rss-subscribe">
-        <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
-            Subscribe via RSS
-            <i class="icon ion-social-rss"></i>
-        </a>
-    </p> -->
 </div>
 <div class="signatur">
-    <div style="font-size: 32px; margin-bottom: 8px; letter-spacing: 3px;">REFORM</div>
-    <div style="color:#ddd; font-size: 14px; margin-bottom: 8px;">Markus Li Stensrud</div>
-    <div style="color:#ddd; font-size:12px;">Amalie Skram vgs, 2015</div>
+    <div class="title">REFORM</div>
+    <div class="author" style="">Markus Li Stensrud</div>
+    <div class="location" style="">Amalie Skram vgs, 2015</div>
 </div>
