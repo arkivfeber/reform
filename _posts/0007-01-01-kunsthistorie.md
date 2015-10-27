@@ -7,6 +7,7 @@ backgrounds:
 thumb: https://dl.dropboxusercontent.com/u/65894221/Reform/REFORM_THUMBNAILS/07.Kunsthistorie.jpg
 category: music
 tags: relax fun songs playlist
+style: 'max-width: 7.3%'
 ---
 
 mac icon

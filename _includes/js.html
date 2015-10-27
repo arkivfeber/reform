@@ -59,6 +59,18 @@
             topbar.slideDown();
         };
 
+        $("img").one("load", function(event) {
+            var currentTarget = $(event.currentTarget);
+            var li = currentTarget.parent().parent();
+            var scale = li.height()/event.currentTarget.clientHeight;
+            var newWidth = li.width()*scale;
+            li.css('max-width', newWidth);
+            li.css('width', newWidth);
+            console.log('loaded', event);
+        }).each(function() {
+            if(this.complete) $(this).load();
+        });
+
         var hideTopBar = function () {
             topbar.slideUp(200, function () {
                 topBarButton.show();

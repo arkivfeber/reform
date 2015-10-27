@@ -24,7 +24,7 @@ home: true
     {% for post in source reversed %}
     {% assign newlist = forloop.index0 | modulo:11 %}
     {% if newlist == 0 %} <ul class="post-list"> {% endif %}
-        <li {% if forloop.index == 17 %} class="big" {% endif %}>
+        <li {% if post.style %} style="{{post.style}}" {% endif %} {% if forloop.index == 17 %} class="big" {% endif %}>
             <a href="{{ post.url | prepend: site.baseurl }}" class="post-list-link">
                 <img src="{{ post.thumb }}" class="post-list-thumb"/>
             </a>

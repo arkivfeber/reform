@@ -24,9 +24,11 @@
 
 {% include js.html %}
 
+{% if page.ispost %}
 <div class="background">
     <img src="{{page.backgrounds[0]}}">
 </div>
+{% endif %}
 </body>
 {% if page.ispost %}
 <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls" data-use-bootstrap-modal="false">
