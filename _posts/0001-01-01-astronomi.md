@@ -17,6 +17,8 @@ referanser:
   - https://dl.dropboxusercontent.com/u/65894221/Reform/REFORM_FAGSIDE(side2)/01.Astronomi2.jpg
 ---
 
-Hei, hei.
+*Hei, hei.* (dette blir kursiv)
+**Hei, hei.** (dette blir bold)
+***Hei, hei.*** (dette blir kursiv og bold)
 
-##Lenker
+##Lenker (dette blir overskrift)
