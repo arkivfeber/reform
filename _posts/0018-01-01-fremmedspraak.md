@@ -3,7 +3,7 @@ layout: post
 title: Fremmedspråk
 date: '0018-01-01'
 backgrounds:
-    - https://dl.dropboxusercontent.com/u/65894221/Reform/REFORM_FAGSIDE(side2)/18.Fremmedspraak2.jpg
+    - https://dl.dropboxusercontent.com/u/44736485/REFORM_FAGSIDE(side2)/18.Fremmedspraak2m.jpg
 thumb: https://dl.dropboxusercontent.com/u/65894221/Reform/REFORM_THUMBNAILS/18.Fremmedspraak.jpg
 category: music
 tags: relax fun songs playlist
