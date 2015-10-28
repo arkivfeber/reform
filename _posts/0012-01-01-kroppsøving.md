@@ -3,7 +3,7 @@ layout: post
 title: Kroppsøving
 date: '0012-01-01'
 backgrounds:
-    - https://dl.dropboxusercontent.com/u/65894221/Reform/REFORM_FAGSIDE(side2)/12.Kroppsoeving2.jpg
+    - https://dl.dropboxusercontent.com/u/44736485/REFORM_FAGSIDE(side2)/12.Kroppsoeving2m.jpg
 thumb: https://dl.dropboxusercontent.com/u/65894221/Reform/REFORM_THUMBNAILS/12.Kroppsoeving.jpg
 category: music
 tags: relax fun songs playlist
