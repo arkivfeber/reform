@@ -3,7 +3,7 @@ layout: post
 title: Litteratur
 date: '0008-01-01'
 backgrounds:
-    - https://dl.dropboxusercontent.com/u/65894221/Reform/REFORM_FAGSIDE(side2)/08.Litteratur2.jpg
+    - https://dl.dropboxusercontent.com/u/44736485/REFORM_FAGSIDE(side2)/08.Litteratur2m.jpg
 thumb: https://dl.dropboxusercontent.com/u/65894221/Reform/REFORM_THUMBNAILS/08.Litteratur.jpg
 category: music
 tags: relax fun songs playlist
