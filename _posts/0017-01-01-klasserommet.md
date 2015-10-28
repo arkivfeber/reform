@@ -3,7 +3,7 @@ layout: post
 title: Klasserommet
 date: '0017-01-01'
 backgrounds:
-    - https://dl.dropboxusercontent.com/u/65894221/Reform/REFORM_FAGSIDE(side2)/17.Klasserom2.jpg
+    - https://dl.dropboxusercontent.com/u/44736485/REFORM_FAGSIDE(side2)/17.Klasserom2m.jpg
 thumb: https://dl.dropboxusercontent.com/u/65894221/Reform/REFORM_THUMBNAILS/17.Klasserommet.jpg
 category: music
 tags: relax fun songs playlist
