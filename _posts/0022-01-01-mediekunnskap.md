@@ -3,7 +3,7 @@ layout: post
 title: Mediekunnskap
 date: '0022-01-01'
 backgrounds:
-    - https://dl.dropboxusercontent.com/u/65894221/Reform/REFORM_FAGSIDE(side2)/22.Mediekunnskap2.jpg
+    - https://dl.dropboxusercontent.com/u/44736485/REFORM_FAGSIDE(side2)/22.Mediekunnskap2m.jpg
 thumb: https://dl.dropboxusercontent.com/u/65894221/Reform/REFORM_THUMBNAILS/22.Mediekunnskap.jpg
 category: music
 tags: relax fun songs playlist
