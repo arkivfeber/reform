@@ -7,19 +7,27 @@
 
         <ul class="sb-menu">
             <li>
-                <a href="{{ site.baseurl }}/"><h2 class="site-title">{{ site.title }}</h2></a>
+                <a href="#">{{ page.title }}</a>
             </li>
             <li>
-                <a href="#">{{ page.title }} bildet</a>
-            </li>
-            <li>
-                <a href="#detaljer">Detaljer</a>
+                <a href="#dokumentasjon">Dokumentasjon</a>
             </li>
             {% if page.referanser %}
             <li>
                 <a href="#referanser">Referanser</a>
             </li>
             {% endif %}
+            {% if page.tekst %}
+            <li>
+                <a href="#tekst">Tekst</a>
+            </li>
+            {% endif %}
+            <li>
+                <a href="#lenker">Lenker</a>
+            </li>
+            <li>
+                <a href="{{ site.baseurl }}/">Forside</a>
+            </li>
         </ul>
     </nav>
 </div>

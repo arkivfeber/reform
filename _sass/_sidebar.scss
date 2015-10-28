@@ -13,11 +13,17 @@
 
     .sb-menu {
         padding: 20px 0;
+        padding-top: 80px;
         margin: 0;
     }
 
     ul {
         list-style: none;
+    }
+
+    li:first-child a {
+        font-size: 28px;
+        text-transform: uppercase;
     }
 
     li a {
@@ -32,54 +38,45 @@
             margin: 10px 0;
         }
         &:hover {
-            background-color: rgba(255,255,255,0.05);
+            background-color: rgba(255, 255, 255, 0.05);
         }
     }
 }
 
+.sb-active .sb-toggle-right .nav-icon {
+    transform: rotate(-180deg);
+    transition: transform .3s .3s;
+}
+
 .sb-toggle-right {
     height: 54px;
-    left: $spacing-unit / 2;
+    right: $spacing-unit / 2;
     position: fixed;
     text-indent: 100%;
     top: $spacing-unit / 2;
     white-space: nowrap;
     width: 54px;
-    z-index: 1;
+    z-index: 100000;
 
     @include media-query($on-laptop) {
         position: absolute;
     }
 
+    .arrow {
+        display: block;
+
+    }
+
     .nav-icon {
-        background: $background-color;
-        box-shadow: 0 0 8px 0 $dark-color;
-        height: 2px;
-        left: 50%;
+        background: url(/reform/assets/images/arrow-left-c.svg);
+        background-size: 40px 40px;
+        height: 40px;
+        left: 0;
         position: absolute;
-        top: 50%;
-        width: 28px;
-
-        @include transform(translateX(-50%) translateY(-50%));
-
-        &:after, &:before {
-            background: $background-color;
-            box-shadow: inherit;
-            content: '';
-            height: 100%;
-            position: absolute;
-            right: 0;
-            top: 0;
-            width: 100%;
-        }
-
-        &:before {
-            @include transform(translateY(-8px));
-        }
-
-        &:after {
-            @include transform(translateY(8px));
-        }
+        top: 0;
+        width: 45px;
+        transform: rotate(0deg);
+        transition: transform .3s 0s;
     }
 }
 

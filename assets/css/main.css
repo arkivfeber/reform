@@ -173,6 +173,20 @@ pre {
   background-color: white;
   padding: 120px 0; }
 
+/*
+#blueimp-gallery {
+    margin-top: 20%;
+    width: 50%;
+    height: 42%;
+    margin-left: auto;
+    margin-right: 20px;
+    border: solid 20px black;
+    .slide {
+    }
+    img {
+        //max-width: 80%
+    }
+}*/
 .container {
   background: #ffffff;
   padding: 0;
@@ -281,13 +295,8 @@ pre {
   -webkit-flex-wrap: wrap;
       -ms-flex-wrap: wrap;
           flex-wrap: wrap;
-  margin-bottom: 120px; }
-  #links a {
-    margin: 5px;
-    display: block;
-    height: 100px; }
-    #links a img {
-      height: 100%; }
+  height: 0;
+  overflow: hidden; }
 
 .post-list {
   display: -ms-flexbox;
@@ -538,9 +547,13 @@ pre {
   background-color: rgba(0, 0, 0, 0.9); }
   .sb-right .sb-menu {
     padding: 20px 0;
+    padding-top: 80px;
     margin: 0; }
   .sb-right ul {
     list-style: none; }
+  .sb-right li:first-child a {
+    font-size: 28px;
+    text-transform: uppercase; }
   .sb-right li a {
     cursor: pointer;
     display: block;
@@ -553,46 +566,40 @@ pre {
     .sb-right li a:hover {
       background-color: rgba(255, 255, 255, 0.05); }
 
+.sb-active .sb-toggle-right .nav-icon {
+  -webkit-transform: rotate(-180deg);
+      -ms-transform: rotate(-180deg);
+          transform: rotate(-180deg);
+  transition: -webkit-transform 0.3s 0.3s;
+  transition: transform 0.3s 0.3s; }
+
 .sb-toggle-right {
   height: 54px;
-  left: 30px;
+  right: 30px;
   position: fixed;
   text-indent: 100%;
   top: 30px;
   white-space: nowrap;
   width: 54px;
-  z-index: 1; }
+  z-index: 100000; }
   @media screen and (max-width: 800px) {
     .sb-toggle-right {
       position: absolute; } }
+  .sb-toggle-right .arrow {
+    display: block; }
   .sb-toggle-right .nav-icon {
-    background: #ffffff;
-    box-shadow: 0 0 8px 0 #111;
-    height: 2px;
-    left: 50%;
+    background: url(/reform/assets/images/arrow-left-c.svg);
+    background-size: 40px 40px;
+    height: 40px;
+    left: 0;
     position: absolute;
-    top: 50%;
-    width: 28px;
-    -webkit-transform: translateX(-50%) translateY(-50%);
-    -ms-transform: translateX(-50%) translateY(-50%);
-        transform: translateX(-50%) translateY(-50%); }
-    .sb-toggle-right .nav-icon:after, .sb-toggle-right .nav-icon:before {
-      background: #ffffff;
-      box-shadow: inherit;
-      content: '';
-      height: 100%;
-      position: absolute;
-      right: 0;
-      top: 0;
-      width: 100%; }
-    .sb-toggle-right .nav-icon:before {
-      -webkit-transform: translateY(-8px);
-      -ms-transform: translateY(-8px);
-          transform: translateY(-8px); }
-    .sb-toggle-right .nav-icon:after {
-      -webkit-transform: translateY(8px);
-      -ms-transform: translateY(8px);
-          transform: translateY(8px); }
+    top: 0;
+    width: 45px;
+    -webkit-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+            transform: rotate(0deg);
+    transition: -webkit-transform 0.3s 0s;
+    transition: transform 0.3s 0s; }
 
 ::-webkit-scrollbar {
   display: none; }
