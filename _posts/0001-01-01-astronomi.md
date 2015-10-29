@@ -10,6 +10,7 @@ tekst: ja
 
 dokumentasjon:
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/01.astro1.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/01.astro1v2.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/01.astro2.jpg
 
 referanser:
