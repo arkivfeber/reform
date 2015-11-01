@@ -112,7 +112,7 @@ referanser:
 **Hei, hei.** (dette blir bold)
 ***Hei, hei.*** (dette blir kursiv og bold)
 
-##Lenker (dette blir overskrift)
+##Lenker
 
 https://en.wikipedia.org/wiki/Monolith_(Space_Odyssey)
 
@@ -133,6 +133,14 @@ https://www.nasa.gov/mission_pages/station/main/2001_anniversary.html - .VjUD8On
 http://fineart.ac.uk/works.php?imageid=bt0002
 
 http://mikesmithstudio.com/projects/thinker/
+
+https://en.wikipedia.org/wiki/The_Thinker
+
+http://www.urchinmovement.com/2014/10/19/memory-and-marker-a-romance/
+
+http://americancinemathequecalendar.com/content/the-museum-of-memory-a-tribute-to-chris-marker
+
+http://chrismarker.org/chris-marker-2/jean-louis-schefer-on-la-jete/
 
 https://en.wikipedia.org/wiki/Johnny_Mnemonic_(film)
 
@@ -183,6 +191,8 @@ https://www.nasa.gov/content/nasas-journey-to-mars
 http://www.techinfaa.com/nasa-planning-built-a-city-for-humans-on-mars/ - sthash.cI79EbY7.dpbs
 
 http://www.space.com/22342-how-to-live-on-mars-colony-technology.html
+
+https://en.wikipedia.org/wiki/The_Martian_(film)
 
 https://www.youtube.com/watch?v=iEg7dF5rg8Y - t=218
 
