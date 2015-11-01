@@ -187,6 +187,9 @@ pre {
         //max-width: 80%
     }
 }*/
+.slide img {
+  max-width: 843px !important; }
+
 .container {
   background: #ffffff;
   padding: 0;
