@@ -18,8 +18,21 @@ referanser:
   - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref01.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref02.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref03.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref04.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref05.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref06.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref07.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref08.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref09.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref10.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref11.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref12.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref13.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref14.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref15.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref16.jpg
-  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref25.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref17.jpg
+
 
 ---
 
