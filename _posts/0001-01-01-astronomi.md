@@ -16,12 +16,11 @@ dokumentasjon:
 
 referanser:
   - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref01.jpg
-  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref01liten.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref02.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref03.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref16.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref25.jpg
-  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref74.jpg
+
 ---
 
 *Hei, hei.* (dette blir kursiv)
