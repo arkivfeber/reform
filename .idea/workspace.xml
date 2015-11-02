@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f988bf1-55c1-4b56-80cb-f2321d8905a8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/0001-01-01-astronomi.md" afterPath="$PROJECT_DIR$/_posts/0001-01-01-astronomi.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/_layout.scss" afterPath="$PROJECT_DIR$/_sass/_layout.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="github-pages-test.iws" />
@@ -33,8 +31,8 @@
       <file leaf-file-name="_layout.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_sass/_layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.61702126">
-              <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.9574468">
+              <caret line="65" column="12" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -123,9 +121,9 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="840" />
+    <option name="x" value="4" />
     <option name="y" value="23" />
-    <option name="width" value="840" />
+    <option name="width" value="1676" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -151,8 +149,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -425,21 +423,26 @@
       <option name="project" value="LOCAL" />
       <updated>1446020043636</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Maksbredde på bildet til 843px.">
+      <created>1446404385260</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1446404385260</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="18555000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="840" y="23" width="840" height="1027" extended-state="6" />
+    <frame x="4" y="23" width="1676" height="1027" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27462685" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4738095" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23687351" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935324" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -447,9 +450,10 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SQL" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -484,7 +488,8 @@
     <MESSAGE value="IE flexbox fix." />
     <MESSAGE value="Gjorde endringer etter nye forespørsler fra Markus." />
     <MESSAGE value="Gjorde endringer etter nye forespørsler fra Markus. Prøver å fikse ikke alignet bilder i oldtids safari." />
-    <option name="LAST_COMMIT_MESSAGE" value="Gjorde endringer etter nye forespørsler fra Markus. Prøver å fikse ikke alignet bilder i oldtids safari." />
+    <MESSAGE value="Maksbredde på bildet til 843px." />
+    <option name="LAST_COMMIT_MESSAGE" value="Maksbredde på bildet til 843px." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -495,38 +500,19 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_sass/_layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/js.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="41" column="66" selection-start-line="41" selection-start-column="66" selection-end-line="41" selection-end-column="66" />
-          <folding>
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{&quot;container&quot;: '#blueimp-gallery'...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -534,34 +520,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{&quot;container&quot;: '#blueimp-gallery'...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -752,50 +711,50 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/0005-01-01-naturfag.md">
-      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19285715">
           <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
         </state>
       </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/0006-01-01-geometri.md">
-      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
         <state />
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/0006-01-01-geometri.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19285715">
           <caret line="9" column="19" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
         </state>
       </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/0007-01-01-kunsthistorie.md">
-      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
         <state />
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/0007-01-01-kunsthistorie.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.47142857">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
         </state>
       </provider>
+      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+        <state />
+      </provider>
       <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
     </entry>
@@ -803,7 +762,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.43338683">
           <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -855,34 +813,34 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/0002-01-01-fysikk.md">
-      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.15">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/0003-01-01-nynorsk.md">
-      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
         <state />
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/0003-01-01-nynorsk.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17142858">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
         </state>
       </provider>
+      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+        <state />
+      </provider>
       <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
     </entry>
@@ -897,58 +855,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.0">
           <caret line="58" column="46" selection-start-line="58" selection-start-column="46" selection-end-line="58" selection-end-column="46" />
-          <folding>
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{&quot;container&quot;: '#blueimp-gallery'...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/0001-01-01-astronomi.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.62142855">
+          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+        </state>
+      </provider>
       <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
         <state />
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.62142855">
-          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_sass/_layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.61702126">
-          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.9574468">
+          <caret line="65" column="12" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="12" />
           <folding />
         </state>
       </provider>
