@@ -6,13 +6,14 @@ date: '0000-01-01'
 backgrounds:
   - https://dl.dropboxusercontent.com/u/44736485/REFORM_FAGSIDE(side2)/01.Astronomi2m.jpg
 
-tekst: ja
 
 dokumentasjon:
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/01.astro1.jpg
-  - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/01.astro1v2.jpg
-  - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/01.astro1v3.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/01.astro2.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/01.astro3.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/01.astro4.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/01.astro5.jpg
+
 
 referanser:
   - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref01.jpg
@@ -107,6 +108,7 @@ referanser:
 
 
 ---
+tekst: ja
 
 *Hei, hei.* (dette blir kursiv)
 **Hei, hei.** (dette blir bold)
