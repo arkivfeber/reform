@@ -188,7 +188,7 @@ pre {
     }
 }*/
 .slide img {
-  max-width: 843px !important; }
+  max-height: 500px !important; }
 
 .container {
   background: #ffffff;

@@ -4,8 +4,8 @@
     <bookmark url="file://$PROJECT_DIR$/_includes/js.html" line="120" mnemonic="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f988bf1-55c1-4b56-80cb-f2321d8905a8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/_layout.scss" afterPath="$PROJECT_DIR$/_sass/_layout.scss" />
+    <list default="true" id="1f988bf1-55c1-4b56-80cb-f2321d8905a8" name="Default" comment="Endret maxhøyde til max bredded 500px.">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="github-pages-test.iws" />
@@ -31,8 +31,8 @@
       <file leaf-file-name="_layout.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_sass/_layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9574468">
-              <caret line="65" column="12" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.63687944">
+              <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -429,7 +429,13 @@
       <option name="project" value="LOCAL" />
       <updated>1446404385260</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Endret maxhøyde til max bredded 500px.">
+      <created>1446465612499</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1446465612499</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -439,9 +445,12 @@
     <frame x="4" y="23" width="1676" height="1027" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27462685" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935324" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23687351" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -450,7 +459,6 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -459,9 +467,7 @@
       <window_info id="SQL" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935324" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -489,7 +495,8 @@
     <MESSAGE value="Gjorde endringer etter nye forespørsler fra Markus." />
     <MESSAGE value="Gjorde endringer etter nye forespørsler fra Markus. Prøver å fikse ikke alignet bilder i oldtids safari." />
     <MESSAGE value="Maksbredde på bildet til 843px." />
-    <option name="LAST_COMMIT_MESSAGE" value="Maksbredde på bildet til 843px." />
+    <MESSAGE value="Endret maxhøyde til max bredded 500px." />
+    <option name="LAST_COMMIT_MESSAGE" value="Endret maxhøyde til max bredded 500px." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -512,7 +519,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="41" column="66" selection-start-line="41" selection-start-column="66" selection-end-line="41" selection-end-column="66" />
-          <folding />
+          <folding>
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{&quot;container&quot;: '#blueimp-gallery'...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -520,7 +554,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{&quot;container&quot;: '#blueimp-gallery'...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -762,6 +823,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.43338683">
           <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -851,14 +913,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/js.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0">
-          <caret line="58" column="46" selection-start-line="58" selection-start-column="46" selection-end-line="58" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/0001-01-01-astronomi.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.62142855">
@@ -875,10 +929,45 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/js.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7246154">
+          <caret line="41" column="66" selection-start-line="41" selection-start-column="66" selection-end-line="41" selection-end-column="66" />
+          <folding>
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{&quot;container&quot;: '#blueimp-gallery'...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1445984035000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_sass/_layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9574468">
-          <caret line="65" column="12" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.63687944">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
           <folding />
         </state>
       </provider>
