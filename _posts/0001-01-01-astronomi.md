@@ -106,9 +106,8 @@ referanser:
   - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref74b.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref75.jpg
 
-
----
 tekst: ja
+---
 
 *Hei, hei.* (dette blir kursiv)
 **Hei, hei.** (dette blir bold)
@@ -116,11 +115,11 @@ tekst: ja
 
 ##Lenker
 
-https://en.wikipedia.org/wiki/Monolith_(Space_Odyssey)
+<https://en.wikipedia.org/wiki/Monolith_(Space_Odyssey)>
 
-http://www.rogerebert.com/rogers-journal/2001-the-monolith-and-the-message
+<http://www.rogerebert.com/rogers-journal/2001-the-monolith-and-the-message>
 
-https://www.youtube.com/watch?v=HhwWAciO6F4 - t=17
+<https://www.youtube.com/watch?v=HhwWAciO6F4 - t=17>
 
 http://archetypeonlinemagazine.com/2014/06/05/space-odyssey/
 

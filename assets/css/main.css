@@ -415,6 +415,14 @@ pre {
 .post-content {
   line-height: 2;
   padding: 0 30px; }
+  .post-content .close-post {
+    position: absolute;
+    line-height: initial;
+    color: black;
+    font-size: 36px;
+    top: 2px;
+    right: 10px;
+    cursor: pointer; }
   .post-content h2 {
     font-size: 32px; }
     @media screen and (max-width: 800px) {
