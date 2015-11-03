@@ -9,9 +9,17 @@
             <li>
                 <a href="#">{{ page.title }}</a>
             </li>
+
+            {% if !page.about %}
             <li>
                 <a href="#dokumentasjon">Objekt</a>
             </li>
+            {% endif %}
+            {% if page.about %}
+            <li>
+                <a href="#dokumentasjon">Dokumentasjon</a>
+            </li>
+            {% endif %}
             {% if page.referanser %}
             <li>
                 <a href="#referanser">Referanser</a>
@@ -25,6 +33,14 @@
             <li>
                 <a href="#lenker">Lenker</a>
             </li>
+            {% if page.about %}
+            <li>
+                <a href="#bidragsytere">Bidragsytere</a>
+            </li>
+            <li>
+                <a href="#takk_til">Takk til</a>
+            </li>
+            {% endif %}
             <li>
                 <a href="{{ site.baseurl }}/">Forside</a>
             </li>
