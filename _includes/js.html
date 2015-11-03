@@ -18,13 +18,21 @@
         var menu = $('.sb-menu');
         var topbar = $('.topbar');
         var menuHeight = menu.height();
-        var windowHeight = $(window).height();
+        var windowHeight = $(window).height() + 10;
         var Gallery = blueimp.Gallery;
 
         var fillerBlock = $('.filler-block');
 
         var menuLinks = $('.sb-menu a');
         var body = $('body');
+
+        $(window).resize(function () {
+            windowHeight = $(window).height() + 10;
+            if (!showingText) {
+                fillerBlock.height(windowHeight);
+            }
+        });
+
         if (body.scrollTop() > 0) {
             showingText = true;
             fillerBlock.height(200);
@@ -103,5 +111,8 @@
             }
             return true;
         }
-    });
+
+
+    })
+    ;
 </script>
