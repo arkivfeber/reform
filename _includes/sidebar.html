@@ -10,14 +10,13 @@
                 <a href="#">{{ page.title }}</a>
             </li>
 
-            {% if !page.about %}
-            <li>
-                <a href="#dokumentasjon">Objekt</a>
-            </li>
-            {% endif %}
             {% if page.about %}
             <li>
                 <a href="#dokumentasjon">Dokumentasjon</a>
+            </li>
+            {% else %}
+            <li>
+                <a href="#dokumentasjon">Objekt</a>
             </li>
             {% endif %}
             {% if page.referanser %}
@@ -40,7 +39,12 @@
             <li>
                 <a href="#takk-til">Takk til</a>
             </li>
+            {% else %}
+            <li>
+                <a href="{{ page.next.url | prepend: site.baseurl }}">Neste: {{page.next.title}}</a>
+            </li>
             {% endif %}
+
             <li>
                 <a href="{{ site.baseurl }}/">Forside</a>
             </li>
