@@ -17,7 +17,7 @@ dokumentasjon:
 
 
 referanser:
-  - <https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/08Littref/litref01.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/08Littref/litref01.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/08Littref/litref02.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/08Littref/litref03.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/08Littref/litref04.jpg
