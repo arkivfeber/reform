@@ -110,11 +110,11 @@ a {
     @include transition($transition-base);
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: #0c65a5;
     }
 
     &:hover {
-        color: $grey-color;
+        color: #30a7fc;
     }
 }
 
@@ -175,12 +175,6 @@ pre {
     //max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
     @extend %clearfix;
 
-    @include media-query($on-laptop) {
-        //max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-        //max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-        padding-left: $spacing-unit / 2;
-        padding-right: $spacing-unit / 2;
-    }
 }
 
 .swiper-button-next {

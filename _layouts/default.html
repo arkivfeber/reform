@@ -9,7 +9,7 @@
 <div class="filler-block" style="height:1080px;"></div>
 {% endif %}
 
-<main id="sb-site" style="min-height: inherit;">
+<main id="sb-site" {% if page.home %} class="home" {% endif %} style="min-height: inherit;">
     <div class="container">
         <div class="wrapper">
             {{ content }}
