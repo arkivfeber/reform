@@ -6,7 +6,6 @@ backgrounds:
     - https://dl.dropboxusercontent.com/u/44736485/REFORM_FAGSIDE(side2)/24.Seksualundervisning2m.jpg
 thumb: https://dl.dropboxusercontent.com/u/65894221/Reform/REFORM_THUMBNAILS/24.Seksualundervisning.jpg
 
----
 
 dokumentasjon:
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/24.seks1.jpg
