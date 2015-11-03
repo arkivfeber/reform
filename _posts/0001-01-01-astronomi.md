@@ -121,102 +121,102 @@ tekst: ja
 
 <https://www.youtube.com/watch?v=HhwWAciO6F4 - t=17>
 
-http://archetypeonlinemagazine.com/2014/06/05/space-odyssey/
+<http://archetypeonlinemagazine.com/2014/06/05/space-odyssey/>
 
-https://www.youtube.com/watch?v=c8N72t7aScY - t=12
+<https://www.youtube.com/watch?v=c8N72t7aScY - t=12>
 
-https://1989nineteeneightynine.wordpress.com/2013/08/22/2001-a-space-odyssey-a-film-of-music-and-mysticism/
+<https://1989nineteeneightynine.wordpress.com/2013/08/22/2001-a-space-odyssey-a-film-of-music-and-mysticism/>
 
-http://1080plus.com/3CglvOos2bA.video
+<http://1080plus.com/3CglvOos2bA.video>
 
-https://www.nasa.gov/mission_pages/station/main/2001_anniversary.html - .VjUD8OnqI7c
+<https://www.nasa.gov/mission_pages/station/main/2001_anniversary.html - .VjUD8OnqI7c>
 
-http://fineart.ac.uk/works.php?imageid=bt0002
+<http://fineart.ac.uk/works.php?imageid=bt0002>
 
-http://mikesmithstudio.com/projects/thinker/
+<http://mikesmithstudio.com/projects/thinker/>
 
-https://en.wikipedia.org/wiki/The_Thinker
+<https://en.wikipedia.org/wiki/The_Thinker>
 
-http://www.urchinmovement.com/2014/10/19/memory-and-marker-a-romance/
+<http://www.urchinmovement.com/2014/10/19/memory-and-marker-a-romance/>
 
-http://americancinemathequecalendar.com/content/the-museum-of-memory-a-tribute-to-chris-marker
+<http://americancinemathequecalendar.com/content/the-museum-of-memory-a-tribute-to-chris-marker>
 
-http://chrismarker.org/chris-marker-2/jean-louis-schefer-on-la-jete/
+<http://chrismarker.org/chris-marker-2/jean-louis-schefer-on-la-jete/>
 
-https://en.wikipedia.org/wiki/Johnny_Mnemonic_(film)
+<https://en.wikipedia.org/wiki/Johnny_Mnemonic_(film)>
 
-http://thenewinquiry.com/blogs/dtake/the-atlas-of-affect/
+<http://thenewinquiry.com/blogs/dtake/the-atlas-of-affect/>
 
-http://warburg.library.cornell.edu/panel/46
+<http://warburg.library.cornell.edu/panel/46>
 
-https://en.wikipedia.org/wiki/Willamette_Meteorite
+<https://en.wikipedia.org/wiki/Willamette_Meteorite>
 
-http://www.amnh.org/exhibitions/permanent-exhibitions/rose-center-for-earth-and-space/dorothy-and-lewis-b.-cullman-hall-of-the-universe/willamette-meteorite-agreement
+<http://www.amnh.org/exhibitions/permanent-exhibitions/rose-center-for-earth-and-space/dorothy-and-lewis-b.-cullman-hall-of-the-universe/willamette-meteorite-agreement>
 
-http://www.marmet-meteorites.com/id11.html
+<http://www.marmet-meteorites.com/id11.html>
 
-https://en.wikipedia.org/wiki/Henry_Moore
+<https://en.wikipedia.org/wiki/Henry_Moore>
 
-http://www.bbc.com/news/science-environment-17625813
+<http://www.bbc.com/news/science-environment-17625813>
 
-http://www.japan-photo.de/e-henry-moore.htm
+<http://www.japan-photo.de/e-henry-moore.htm>
 
-http://www.tate.org.uk/art/artworks/moore-atom-piece-working-model-for-nuclear-energy-t02296
+<http://www.tate.org.uk/art/artworks/moore-atom-piece-working-model-for-nuclear-energy-t02296>
 
-https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory
+<https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory>
 
-http://edgerton-digital-collections.org/galleries/iconic/bombs - hee-nc-52011
+<http://edgerton-digital-collections.org/galleries/iconic/bombs - hee-nc-52011>
 
-http://www.theatlantic.com/photo/2015/07/70-years-since-trinity-when-we-tested-nuclear-bombs/398735/
+<http://www.theatlantic.com/photo/2015/07/70-years-since-trinity-when-we-tested-nuclear-bombs/398735/>
 
-http://footage.framepool.com/en/shot/100502870-manhattan-project-trinity-atomic-bomb-testing-blast-wave-los-alamos
+<http://footage.framepool.com/en/shot/100502870-manhattan-project-trinity-atomic-bomb-testing-blast-wave-los-alamos>
 
-https://en.wikipedia.org/wiki/Hiroshima
+<https://en.wikipedia.org/wiki/Hiroshima>
 
-https://en.wikipedia.org/wiki/Project_Orion_(nuclear_propulsion)
+<https://en.wikipedia.org/wiki/Project_Orion_(nuclear_propulsion)>
 
-http://www.space.com/20609-nuclear-fusion-rocket-mars.html
+<http://www.space.com/20609-nuclear-fusion-rocket-mars.html>
 
-https://en.wikipedia.org/wiki/Human_mission_to_Mars
+<https://en.wikipedia.org/wiki/Human_mission_to_Mars>
 
-http://earthsky.org/space/beauty-from-chaos-on-mars
+<http://earthsky.org/space/beauty-from-chaos-on-mars>
 
-http://mars.nasa.gov/multimedia/marsasart/
+<http://mars.nasa.gov/multimedia/marsasart/>
 
-https://en.wikipedia.org/wiki/Martian_canal
+<https://en.wikipedia.org/wiki/Martian_canal>
 
-http://mars.nasa.gov/programmissions/
+<http://mars.nasa.gov/programmissions/>
 
-https://www.nasa.gov/content/nasas-journey-to-mars
+<https://www.nasa.gov/content/nasas-journey-to-mars>
 
-http://www.techinfaa.com/nasa-planning-built-a-city-for-humans-on-mars/ - sthash.cI79EbY7.dpbs
+<http://www.techinfaa.com/nasa-planning-built-a-city-for-humans-on-mars/ - sthash.cI79EbY7.dpbs>
 
-http://www.space.com/22342-how-to-live-on-mars-colony-technology.html
+<http://www.space.com/22342-how-to-live-on-mars-colony-technology.html>
 
-https://en.wikipedia.org/wiki/The_Martian_(film)
+<https://en.wikipedia.org/wiki/The_Martian_(film)>
 
-https://www.youtube.com/watch?v=iEg7dF5rg8Y - t=218
+<https://www.youtube.com/watch?v=iEg7dF5rg8Y - t=218>
 
-http://voyager.jpl.nasa.gov/mission/interstellar.html
+<http://voyager.jpl.nasa.gov/mission/interstellar.html>
 
-https://en.wikipedia.org/wiki/Voyager_program
+<https://en.wikipedia.org/wiki/Voyager_program>
 
-http://forums.ltheory.com/viewtopic.php?f=10&t=38&start=30
+<http://forums.ltheory.com/viewtopic.php?f=10&t=38&start=30>
 
-http://www.theguardian.com/film/filmblog/2014/nov/05/interstellar-astrophysics-does-space-science-work-out
+<http://www.theguardian.com/film/filmblog/2014/nov/05/interstellar-astrophysics-does-space-science-work-out>
 
-https://www.youtube.com/watch?v=YdSz12Glhlw
+<https://www.youtube.com/watch?v=YdSz12Glhlw>
 
-https://en.wikipedia.org/wiki/Black_hole
+<https://en.wikipedia.org/wiki/Black_hole>
 
- https://www.youtube.com/watch?v=4Hf_XkgE1d0
+<https://www.youtube.com/watch?v=4Hf_XkgE1d0>
 
-http://giphy.com/gifs/clayrodery-illustration-clay-rodery-TuC38AjhS76tq
+<http://giphy.com/gifs/clayrodery-illustration-clay-rodery-TuC38AjhS76tq>
 
-http://www.dailymotion.com/video/x2ltj9n
+<http://www.dailymotion.com/video/x2ltj9n>
 
-https://www.youtube.com/watch?v=6cryXejg__Q
+<https://www.youtube.com/watch?v=6cryXejg__Q>
 
-http://www.businessinsider.com/interstellar-how-tars-was-built-2015-3
+<http://www.businessinsider.com/interstellar-how-tars-was-built-2015-3>
 
-http://www.chaotiqueneutre.com/log/?p=237
+<http://www.chaotiqueneutre.com/log/?p=237>
