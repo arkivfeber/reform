@@ -6,7 +6,6 @@ backgrounds:
     - https://dl.dropboxusercontent.com/u/44736485/REFORM_FAGSIDE(side2)/11.Matematikk2m.jpg
 thumb: https://dl.dropboxusercontent.com/u/65894221/Reform/REFORM_THUMBNAILS/11.Matematikk.jpg
 
----
 
 dokumentasjon:
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/11.mat1.jpg

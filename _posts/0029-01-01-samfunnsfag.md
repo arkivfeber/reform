@@ -6,7 +6,6 @@ backgrounds:
     - https://dl.dropboxusercontent.com/u/44736485/REFORM_FAGSIDE(side2)/29.Samfunnsfag2m.jpg
 thumb: https://dl.dropboxusercontent.com/u/65894221/Reform/REFORM_THUMBNAILS/29.Samfunnsfag.jpg
 
----
 
 dokumentasjon:
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/29.sam1.jpg

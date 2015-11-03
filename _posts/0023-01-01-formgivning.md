@@ -6,7 +6,6 @@ backgrounds:
     - https://dl.dropboxusercontent.com/u/44736485/REFORM_FAGSIDE(side2)/23.Formgivning2m.jpg
 thumb: https://dl.dropboxusercontent.com/u/65894221/Reform/REFORM_THUMBNAILS/23.Formgivning.jpg
 
----
 
 dokumentasjon:
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/23.form1.jpg
