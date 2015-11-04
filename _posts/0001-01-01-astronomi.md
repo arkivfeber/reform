@@ -111,7 +111,7 @@ tekst: ja
 ##Visitor From the Moon
 
 
-In his lecture Images from the Region of the Pueblo Indians of North America (published post mortem in 1939) the German art historian and cultural theorist Aby Warburg (1866-1929) recounts his stay among the primitive indian tribes of North West America in the 1890s. In an early draft to the lecture (available in the archives of The Warburg Institute) Warburg reveals himself as an ambivalent observer to the religious and the primitive: “The Clackamas Tribe is incapable of life, crippled by a dark superstition”. In the final draft however, it becomes obvious that the maturation of his argument, in the actual process of preparing the lecture, inflected his growing admiration for primitive ritualistic practice. In an homage to the auratic aspects of a religious ceremony where The Clackamas Tribe worships a meteorite, Warburg writes:
+In his lecture *Images from the Region of the Pueblo Indians of North America* (published post mortem in 1939) the German art historian and cultural theorist Aby Warburg (1866-1929) recounts his stay among the primitive indian tribes of North West America in the 1890s. In an early draft to the lecture (available in the archives of The Warburg Institute) Warburg reveals himself as an ambivalent observer to the religious and the primitive: “The Clackamas Tribe is incapable of life, crippled by a dark superstition”. In the final draft however, it becomes obvious that the maturation of his argument, in the actual process of preparing the lecture, inflected his growing admiration for primitive ritualistic practice. In an homage to the auratic aspects of a religious ceremony where The Clackamas Tribe worships a meteorite, Warburg writes:
 
 In a fantastic ceremony the whole tribe gathered in dance to worship this other-worldly object. The core of such a strong belief derives just as much from fear as from admiration. […] The American of today is no longer afraid of a meteorite; in any case he does not worship it. […] Natural forces are no longer seen in an anthropomorphic or biomorphic guise. […] The culture of the machine age has destroyed what the natural sciences, born of myth, so arduously achieved: the space for devotion, which evolved in turn into the space required for reflection.
 	The modern Prometheus and the modern Icarus, Franklin and the Wright brothers, who invented the dirigible airplane, are precisely those ominous destroyers of the sense of distance who threaten to lead the planet back into chaos. I fear that day when man sets his foot on the moon.
@@ -127,7 +127,7 @@ After the death of John Milton (1906-2005), a former curator at The American Mus
 ##Reversed Obelisk
 
 
-Excerpts from a letter written to Sigmund Freud by the German art historian and cultural theorist Aby Warburg (1866-1929) in 1890:
+Excerpts from a letter written to Sigmund Freud by Aby Warburg in 1890:
 
 First Edison wrested lightning from nature. Now, his student, Nicola Tesla, has invented a device that is said to receive signals from other planets. When looking into my crystal ball — named `The Pearl of Venus´ by my dear friend Jean Jacques Dwelshauvers [Belgian art historian and communist renowned for his extensive research on Boticelli] — I no longer see an empty space, but a blurry chaos. When gazing up at the Moon, it is as if someone is staring back.  
 
