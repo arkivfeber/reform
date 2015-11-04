@@ -108,10 +108,32 @@ referanser:
 
 tekst: ja
 ---
+##Visitor From the Moon
 
-*Hei, hei.* (dette blir kursiv)
-**Hei, hei.** (dette blir bold)
-***Hei, hei.*** (dette blir kursiv og bold)
+
+In his lecture Images from the Region of the Pueblo Indians of North America (published post mortem in 1939) the German art historian and cultural theorist Aby Warburg (1866-1929) recounts his stay among the primitive indian tribes of North West America in the 1890s. In an early draft to the lecture (available in the archives of The Warburg Institute) Warburg reveals himself as an ambivalent observer to the religious and the primitive: “The Clackamas Tribe is incapable of life, crippled by a dark superstition”. In the final draft however, it becomes obvious that the maturation of his argument, in the actual process of preparing the lecture, inflected his growing admiration for primitive ritualistic practice. In an homage to the auratic aspects of a religious ceremony where The Clackamas Tribe worships a meteorite, Warburg writes:
+
+In a fantastic ceremony the whole tribe gathered in dance to worship this other-worldly object. The core of such a strong belief derives just as much from fear as from admiration. (…) The American of today is no longer afraid of a meteorite; in any case he does not worship it. (…) Natural forces are no longer seen in an anthropomorphic or biomorphic guise. (…) The culture of the machine age has destroyed what the natural sciences, born of myth, so arduously achieved: the space for devotion, which evolved in turn into the space required for reflection.
+	The modern Prometheus and the modern Icarus, Franklin and the Wright brothers, who invented the dirigible airplane, are precisely those ominous destroyers of the sense of distance who threaten to lead the planet back into chaos. I fear that day when man sets his foot on the moon.
+
+In 1902, in the Willamette Valley, Oregon, the American miner Ellis Hughes found what would turn out to be the largest meteorite on the American continent, weighing more than 15 tons. With the help of two horses and some tree trunks he managed to transport the meteorite to Oregon City.
+	In 1906 the meteorite (later named The Willamette Meteorite) was donated to The American Museum of Natural History in New York where it has been exhibited ever since. However, shortly after the donation it turned out that for centuries the meteorite had been a sacred object to The Clackamas Tribe — the very same tribe as in Warburg’s account. They regarded the meteorite as a representative of the Sky People, and it was known to them as Tomanowas  — “Visitor from the Moon”. The tribe had been forced to abandon it upon being relocated in 1901. 
+In April 1998 The Clackamas Tribe claimed the return of the meteorite from the American Museum of Natural History. Two months later a court battle was averted with the completion of a settlement: The meteorite would remain the center piece of the Rose Centre for Earth and Space in the natural history museum, but the Clackamas Tribe would get access to the museum annualy to perform their ceremony dedicated to the Tomanowas.
+
+After the death of John Milton (1906-2005), a former curator at The American Museum of Natural History, a missing piece of  The Willimatte Meteorite (weighing more than 12 kilos) where found in Milton’s estate. Despite massive  protests from The Clackamas Tribe, the piece was put on auction at Bonhams Auction House in June 2007. The anonymous buyer turned out to be The Warburg Institute, who put it on display in the Mnemosyne Atlas section of the institute’s library at The University of London. There a lucky few with a granted access can behold the piece standing in a glass vitrine together with, among other things, a selection of Warburg’s notebooks. On the cover of one of the notebooks it is written in Warburg’s crooked handwriting: ”What is not yours, do not disturb; Private property”.
+
+
+##Reversed Obelisk
+
+
+Excerpts from a letter written to Sigmund Freud by the German art historian and cultural theorist Aby Warburg (1866-1929) in 1890:
+
+First Edison wrested lightning from nature. Now, his student, Nicola Tesla, has invented a device that is said to receive signals from other planets. When looking into my crystal ball — named `The Pearl of Venus´ by my dear friend Jean Jacques Dwelshauvers [Belgian art historian and communist renowned for his extensive research on Boticelli] — I no longer see an empty space, but a blurry chaos. When gazing up at the Moon, it is as if someone is staring back.  
+
+[…] All the skyscraping obelisks of our planet, looking as if they are about to ascend, invite our leaders to expand their empires to the Moon and beyond, penetrating the space required for reflection. […] On my grave I ask that a reversed obelisk is erected, similar to the one I have standing on my desk. The reversed miniature obelisk, made in glass by Leopold Blaschka, functions as my paperweight.
+
+Aby Warburg died in Hamburg on the 26th of October 1929. On his grave was erected an obelisk, not a reversed one as Warburg had requested, but one pointing skywards. The paperweight is today to be found at The Warburg Institute in London, where it is placed atop the complete letters of Warburg.
+
 
 ##Lenker
 
