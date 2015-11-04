@@ -41,7 +41,7 @@ body {
  * Set `margin-bottom` to maintain vertical rhythm
  */
 h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
+p, blockquote,
 ul, ol, dl, figure,
 .highlight {
   margin-bottom: 30px; }
@@ -93,38 +93,30 @@ a {
   a:hover {
     color: #30a7fc; }
 
+code {
+  font-family: "Courier New", Courier, monospace;
+  white-space: normal;
+  text-indent: 3em; }
+
+pre {
+  text-indent: 3em; }
+
 /**
  * Blockquotes
  */
 blockquote {
-  background: #dbdbdb;
-  margin-left: -20px;
-  margin-right: -20px;
-  padding: 20px; }
+  padding-left: 3em;
+  font-size: 15px;
+  font-style: italic; }
   blockquote > :last-child {
     margin-bottom: 0; }
 
-/**
- * Code formatting
- */
-pre,
-code {
-  background-color: #eef;
-  font-family: "Courier New", Courier, monospace;
-  font-size: 15px; }
-
-code {
-  padding: 4px; }
+p + pre {
+  margin-top: -30px; }
 
 pre {
-  margin-left: -60px;
-  margin-right: -60px;
-  overflow-x: scroll;
-  padding: 20px 60px; }
-  pre > code {
-    border: 0;
-    padding-left: 0;
-    padding-right: 0; }
+  font-family: "Courier New", Courier, monospace;
+  margin-bottom: 0; }
 
 /**
  * Wrapper
@@ -169,10 +161,6 @@ pre {
   background-color: white;
   padding: 120px 0;
   width: 825px; }
-  #sb-site p {
-    text-indent: 1em; }
-    #sb-site p:first-of-type {
-      text-indent: 0; }
   #sb-site.home {
     width: auto; }
 

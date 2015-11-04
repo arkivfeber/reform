@@ -41,7 +41,7 @@ body {
  * Set `margin-bottom` to maintain vertical rhythm
  */
 h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
+p, blockquote,
 ul, ol, dl, figure,
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 2;
@@ -119,15 +119,23 @@ a {
 }
 
 
+code {
+    font-family: $base-font-family-mono;
+    white-space: normal;
+    text-indent: 3em;
+}
+
+pre {
+    text-indent: 3em;
+}
 
 /**
  * Blockquotes
  */
 blockquote {
-    background: $grey-color-light;
-    margin-left: -($spacing-unit / 3);
-    margin-right: -($spacing-unit / 3);
-    padding: $spacing-unit / 3;
+    padding-left: 3em;
+    font-size: 15px;
+    font-style: italic;
 
     > :last-child {
         margin-bottom: 0;
@@ -136,31 +144,13 @@ blockquote {
 
 
 
-/**
- * Code formatting
- */
-pre,
-code {
-    background-color: #eef;
-    font-family: $base-font-family-mono;
-    font-size: 15px;
-}
-
-code {
-    padding: 4px;
+p + pre {
+    margin-top: -30px;
 }
 
 pre {
-    margin-left: - $spacing-unit;
-    margin-right: - $spacing-unit;
-    overflow-x: scroll;
-    padding: ($spacing-unit / 3) $spacing-unit;
-
-    > code {
-        border: 0;
-        padding-left: 0;
-        padding-right: 0;
-    }
+    font-family: $base-font-family-mono;
+    margin-bottom: 0;
 }
 
 
