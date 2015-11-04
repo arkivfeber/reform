@@ -42,4 +42,21 @@ Håpet er at verket kan inngå i deler av undervisningen, for å sette søkelyse
 
 ##Bidragsytere
 
+Assistent: David Augusto Rios Alomia
+
+Sveising: Germain Ngoma
+
+Fotograf: Bjarte Bjørkum
+
+Webdesign: Sigmund
+
+Glassmester: Hole Glass
+
+Kunstkonsulenter: Sissel Lillebostad, Arne Rygg
+
+Kunstner: Markus Li Stensrud
+
+
 ##Takk til
+
+In no order of appearance: Ida Madsen Følling, David Augusto Rios Alomia, Sissel Lillebostad, Arne Rygg, Tag Team Studio, Germain Ngoma, Sigmund 
