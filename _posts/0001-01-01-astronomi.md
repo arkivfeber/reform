@@ -123,6 +123,7 @@ In 1902, in the Willamette Valley, Oregon, the American miner Ellis Hughes found
 After the death of John Milton (1906-2005), a former curator at The American Museum of Natural History, a missing piece of  The Willimatte Meteorite (weighing more than 12 kilos) where found in Milton’s estate. Despite massive  protests from The Clackamas Tribe, the piece was put on auction at Bonhams Auction House in June 2007. The anonymous buyer turned out to be The Warburg Institute, who put it on display in the Mnemosyne Atlas section of the institute’s library at The University of London. There a lucky few with a granted access can behold the piece standing in a glass vitrine together with, among other things, a selection of Warburg’s notebooks. On the cover of one of the notebooks it is written in Warburg’s crooked handwriting: ”What is not yours, do not disturb; Private property”.
 
 
+
 ##Reversed Obelisk
 
 
