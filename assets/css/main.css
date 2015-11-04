@@ -253,11 +253,14 @@ main#sb-site.home {
   main#sb-site.home {
     border-width: 3px; } }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 900px) {
   main#sb-site {
-    width: 100%;
-    padding-left: 0;
-    padding-right: 0; } }
+    width: auto;
+    margin-left: -40px;
+    margin-right: -40px; }
+    main#sb-site.home {
+      margin-left: 0;
+      margin-right: 0; } }
 
 @media screen and (max-width: 700px) {
   .signatur {
