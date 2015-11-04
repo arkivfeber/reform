@@ -8,6 +8,14 @@
     background-color: white;
     padding: ($spacing-unit * 2) 0;
     width: 825px;
+
+    p {
+        text-indent: 1em;
+        &:first-of-type {
+            text-indent: 0;
+        }
+    }
+
     &.home {
         width: auto;
     }
