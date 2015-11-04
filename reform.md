@@ -22,8 +22,8 @@ tekst: ja
 
 
 The metaphysicians of Tlön are not looking for truth, not even an approximation of it; they are after a kind of amazement.
-						               
-						               <small>– Jorge Luis Borges, *Tlön, Uqbar, Orbis Tertius* (1940)</small>
+
+    <small>– Jorge Luis Borges, *Tlön, Uqbar, Orbis Tertius* (1940)</small>
 
 
 
