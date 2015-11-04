@@ -18,7 +18,39 @@ dokumentasjon:
 
 
 referanser:
-  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/Astroref/astroref01.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref01.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref01a.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref01ab.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref01b.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref1bc.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref01c.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref02.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref03.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref03b.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref03c.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref03d.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref03e.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref03f.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref03h.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref04.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref05.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref05b.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref05c.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref06.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref07.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref08.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref09.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref09b.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref9c.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref09d.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref10.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref11.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref12.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref13.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref14.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref15.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref16.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/12Kroref/kroref17.jpg
 
 
 
