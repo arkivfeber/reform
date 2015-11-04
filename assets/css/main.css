@@ -167,7 +167,10 @@ pre {
    ========================================================================== */
 #sb-site {
   background-color: white;
-  padding: 120px 0; }
+  padding: 120px 0;
+  width: 825px; }
+  #sb-site.home {
+    width: auto; }
 
 .slide img {
   max-height: 500px !important; }
@@ -210,7 +213,7 @@ main#sb-site.home {
   font-weight: 100;
   bottom: 0;
   right: 0;
-  font-size: 9px;
+  font-size: 8px;
   letter-spacing: 0px; }
   .signatur .title {
     font-size: 2.66667em;
@@ -228,33 +231,51 @@ main#sb-site.home {
 
 @media screen and (max-width: 1600px) {
   .signatur {
-    font-size: 8px; }
+    font-size: 7px; }
   main#sb-site.home {
     border-width: 7px; } }
 
 @media screen and (max-width: 1400px) {
   .signatur {
-    font-size: 7px; }
+    font-size: 6px; }
   main#sb-site.home {
     border-width: 5px; } }
 
 @media screen and (max-width: 1180px) {
   .signatur {
-    font-size: 6px; }
+    font-size: 5px; }
   main#sb-site.home {
     border-width: 4px; } }
 
 @media screen and (max-width: 960px) {
   .signatur {
-    font-size: 5px; }
+    font-size: 4px; }
   main#sb-site.home {
     border-width: 3px; } }
 
 @media screen and (max-width: 700px) {
+  main#sb-site {
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0; } }
+
+@media screen and (max-width: 700px) {
   .signatur {
-    font-size: 4px; }
+    font-size: 3px; }
   main#sb-site.home {
     border-width: 2px; } }
+
+@media screen and (max-width: 500px) {
+  .signatur {
+    font-size: 2px; }
+  main#sb-site.home {
+    border-width: 2px; } }
+
+@media screen and (max-width: 300px) {
+  .signatur {
+    font-size: 1.3px; }
+  main#sb-site.home {
+    border-width: 1px; } }
 
 .background {
   left: 0px;

@@ -80,7 +80,6 @@
         menuLinks.click(function (event) {
             var target = event.currentTarget.getAttribute('href');
             slidebars.slidebars.close();
-            enableScroll();
             if (target === '#') {
                 event.preventDefault();
                 scrollToTop();
@@ -94,6 +93,7 @@
                 $('#dokumentasjon a').first().trigger('click').trigger('click');
                 return false;
             }
+            enableScroll();
             return scrollToTarget(target);
         });
 
