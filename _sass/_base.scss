@@ -41,7 +41,7 @@ body {
  * Set `margin-bottom` to maintain vertical rhythm
  */
 h1, h2, h3, h4, h5, h6,
-p, blockquote,
+blockquote, hr,
 ul, ol, dl, figure,
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 2;
@@ -142,7 +142,19 @@ blockquote {
     }
 }
 
+p ~ p {
+    margin-bottom: 0;
+    text-indent: 3em;
+}
 
+hr + p {
+    text-indent: 0;
+}
+
+
+hr {
+    border: none;
+}
 
 p + pre {
     margin-top: -30px;
