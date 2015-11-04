@@ -127,7 +127,7 @@ After the death of John Milton (1906-2005), a former curator at The American Mus
 ##Reversed Obelisk
 
 
-Excerpts from a letter written to Sigmund Freud by the German art historian and cultural theorist Aby Warburg (1866-1929) in 1890:
+Excerpts from a letter written to Sigmund Freud by Aby Warburg in 1890:
 
 First Edison wrested lightning from nature. Now, his student, Nicola Tesla, has invented a device that is said to receive signals from other planets. When looking into my crystal ball — named `The Pearl of Venus´ by my dear friend Jean Jacques Dwelshauvers [Belgian art historian and communist renowned for his extensive research on Boticelli] — I no longer see an empty space, but a blurry chaos. When gazing up at the Moon, it is as if someone is staring back.  
 
