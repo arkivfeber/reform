@@ -19,6 +19,8 @@ dokumentasjon:
 
 tekst: ja
 ---
+
+<small>Liten skrift</small>
 The metaphysicians of Tlön are not looking for truth, not even an approximation of it; they are after a kind of amazement.
 						               – Jorge Luis Borges, Tlön, Uqbar, Orbis Tertius (1940)
 

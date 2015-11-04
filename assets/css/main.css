@@ -169,6 +169,10 @@ pre {
   background-color: white;
   padding: 120px 0;
   width: 825px; }
+  #sb-site p {
+    text-indent: 1em; }
+    #sb-site p:first-of-type {
+      text-indent: 0; }
   #sb-site.home {
     width: auto; }
 
