@@ -70,16 +70,22 @@ Håpet er at verket kan inngå i deler av undervisningen, for å sette søkelyse
 
 Assistent: David Augusto Rios Alomia
 
+***
 Sveising: Germain Ngoma
 
+***
 Fotograf: Bjarte Bjørkum
 
+***
 Webdesign: Sigmund Rolfsjord
 
+***
 Glassmester: Hole Glass
 
+***
 Kunstkonsulenter: Sissel Lillebostad, Arne Rygg
 
+***
 Kunstner: Markus Li Stensrud
 
 
