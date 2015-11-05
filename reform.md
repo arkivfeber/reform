@@ -26,10 +26,9 @@ The metaphysicians of Tlön are not looking for truth, not even an approximation
 <small>– Jorge Luis Borges, *Tlön, Uqbar, Orbis Tertius* (1940)</small>
 
 
-
+* * *
 I februar 2014 var jeg på befaring på BHG, Bjørgvin og Tanks og fikk se tre skoler med svært ulik historikk og et stort spenn i historisk materiell. Tanks’ 150-årige historie opp mot Bjørgvins 20-årige historie. Store samlinger med skjelletter, utstoppede dyr og skapninger i formalin på den ene siden. Elevkollasjer av utklipp fra musikkmagasiner, innrammede plateomslag og pokaler på den andre. Det ble klart for meg at det kunstverket jeg skulle utforme ikke kun kan ta for se hver skoles historikk spesielt, men i større grad måtte tematisere og problematisere norsk skole, eller SKOLEN, generelt.
 
-* * *
 En fellesnevner på tvers av estetikk, metode, epoke og reform, er skolen som modell. Alt man lærer på skolen er modeller for livet utenfor skoleveggene. Stilt ovenfor 150 års skolehistorikk ble det også tydelig hva som har gått tapt. Den nitidige kjærligheten for detaljer som kjennetegner tidligere tiders formidlingsverktøy har forsvunnet til fordel for digitale hjelpemidler. Derfor, heller enn å sette noen gjenstander med mere eller mindre historisk relevans i en vitrine, ville jeg forsøke å mime det håndverket, den detaljrikdommen og den materialbevisstheten man finner i gamle formidlingsverktøy, og lage nettopp modeller/objekter som kan assosieres med ulike fag, og som blir noe annet enn en endimensjonal representasjon av hva en skole står for og hva slags historisk kontekst den befinner seg i.
 
 Det digitale skal imidlertid ikke settes på gangen. Internett har åpnet opp for noe annet, noe som ideelt sett burde komme i tillegg til gamle, håndfaste og taktile formidlingsverktøy. Internett er mere enn et sted der du finner det (eller den) du leter etter. Internett er et uendelig assosiasjonsverktøy og selve oppfyllelsen av den franske opplysningsfilosofen Denis Diderots (1713-1784) visjon om en altomfattende encyklopedi. Derfor er den andre halvdelen av dette verket en nettside der man finner referansegrunnlaget til hver og en av verkets 33 modeller/objekter. Det vil si både visuelle, teoretiske, historiske, filosofiske, litterære og kulturelle referanser som er med på å utvide forståelsen av hvert fag.
