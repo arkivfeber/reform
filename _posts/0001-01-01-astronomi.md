@@ -113,7 +113,8 @@ tekst: ja
 
 In his lecture *Images from the Region of the Pueblo Indians of North America* (published post mortem in 1939) the German art historian and cultural theorist Aby Warburg (1866-1929) recounts his stay among the primitive indian tribes of North West America in the 1890s. In an early draft to the lecture (available in the archives of The Warburg Institute) Warburg reveals himself as an ambivalent observer to the religious and the primitive: “The Clackamas Tribe is incapable of life, crippled by a dark superstition”. In the final draft however, it becomes obvious that the maturation of his argument, in the actual process of preparing the lecture, inflected his growing admiration for primitive ritualistic practice. In an homage to the auratic aspects of a religious ceremony where The Clackamas Tribe worships a meteorite, Warburg writes:
 
-In a fantastic ceremony the whole tribe gathered in dance to worship this other-worldly object. The core of such a
+* * *
+<small>In a fantastic ceremony the whole tribe gathered in dance to worship this other-worldly object. The core of such a
 
 strong belief derives just as much from fear as from admiration. […] The American of today is no longer afraid of a 
 
@@ -125,8 +126,9 @@ the space for devotion, which evolved in turn into the space required for reflec
 The modern Prometheus and the modern Icarus, Franklin and the Wright brothers, who invented the dirigible airplane, are 
 
 precisely those ominous destroyers of the sense of distance who threaten to lead the planet back into chaos. I fear that 
-day when man sets his foot on the moon.
+day when man sets his foot on the moon.</small>
 
+* * *
 In 1902, in the Willamette Valley, Oregon, the American miner Ellis Hughes found what would turn out to be the largest meteorite on the American continent, weighing more than 15 tons. With the help of two horses and some tree trunks he managed to transport the meteorite to Oregon City.
 	In 1906 the meteorite (later named The Willamette Meteorite) was donated to The American Museum of Natural History in New York where it has been exhibited ever since. However, shortly after the donation it turned out that for centuries the meteorite had been a sacred object to The Clackamas Tribe — the very same tribe as in Warburg’s account. They regarded the meteorite as a representative of the Sky People, and it was known to them as Tomanowas  — “Visitor from the Moon”. The tribe had been forced to abandon it upon being relocated in 1901. 
     In April 1998 The Clackamas Tribe claimed the return of the meteorite from the American Museum of Natural History. Two months later a court battle was averted with the completion of a settlement: The meteorite would remain the center piece of the Rose Centre for Earth and Space in the natural history museum, but the Clackamas Tribe would get access to the museum annualy to perform their ceremony dedicated to the Tomanowas.
