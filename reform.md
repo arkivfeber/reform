@@ -36,10 +36,10 @@ Det digitale skal imidlertid ikke settes på gangen. Internett har åpnet opp fo
 Med detaljrikdommen og materialbevisstheten til gamle formidlingsverktøy, og de uendelige assosiasjonsmulighetene og den altomfattende kunnskapsbasen til internett, forener verket det beste fra to tider.
 
 * * *
-Den fysisk tilstedeværende delen av verket består av 33 miniatyrmodeller/objekter, plassert i tre rekker over hverandre, inne i en glassvitrine. Vitrinen måler h 180 x b 300 x d 50 cm. Objektene er laget i et bredt spekter av materialer, og er alt fra funne gjenstander i 1:1 og miniatyrmodeller i ulike skalaforhold. Glassvitrinen er laget i svartlakkert stål og 10mm tykt, laminert glass. Den er plassert på gulvet og forankret til en stor vegg i vrimlearealet i 3. etasje. (se side 4 for bilde).
+Den fysisk tilstedeværende delen av verket består av 33 miniatyrmodeller/ objekter, plassert i tre rekker over hverandre, inne i en glassvitrine. Vitrinen måler h 180 x b 300 x d 50 cm. Objektene er laget i et bredt spekter av materialer, og er alt fra funne gjenstander i 1:1 og miniatyrmodeller i ulike skalaforhold. Glassvitrinen er laget i svartlakkert stål og 10mm tykt, laminert glass. Den er plassert på gulvet og forankret til en stor vegg i vrimlearealet i 3. etasje.
 
 32 av modellene/objektene representerer hvert sitt fag. Det 33. objektet er en miniatyrmodell av et rom fylt av et ekspresjonistisk månelandskap. I løpet av 18- og 1900-tallet gikk månen fra å være et symbol på det underbevisste og irrasjonelle til å symbolisere det rasjonelle og vitenskapelige – menneskehetens ypperste teknologiske bragd. Månerommet må derfor anses som en representasjon av grenselandet mellom romantikk, undring og fantasi på den ene siden, og rasjonell vitenskap, teknologi og fakta på den andre. Etter min mening bør også den ideelle skole befinne seg i dette grenselandet.
-En asymmetrisk del på ca 20 x 20 cm er fjernet fra miniatyrmånerommets fremre, venstre hjørne, og det er grunnflaten til denne delen som utgjør utgangspunktet for grunnflatene til hver av de 32 modellene/objektene. Dvs. at hver modell/objekt passer inn i månerommet, som biter i et puslespill. Månerommet blir en metafor for et klasserom.
+En asymmetrisk del på ca 20 x 20 cm er fjernet fra miniatyr- månerommets fremre, venstre hjørne, og det er grunnflaten til denne delen som utgjør utgangspunktet for grunnflatene til hver av de 32 modellene/ objektene. Dvs. at hver modell/objekt passer inn i månerommet, som biter i et puslespill. Månerommet blir en metafor for et klasserom.
 
 * * *
 Den store glassvitrinen ligner en krysning mellom et arkiv og et kuriositetskabinett. Kuriositetskabinettet, museets forløper, var private samlinger av gjenstander samlet på ekspedisjoner til de mange nye verdener som utfoldet seg  på 17 og 1800-tallet. Sammenstillingen av gjenstandene ble som regel gjort etter estetiske hensyn og/eller etter et ønske om å skape interessante fortellinger. Da de langt mer sterile museene etter hvert overtok som formidlere ble kriterier som rase, kategori, fauna osv. satt i høysetet og kuriositetskabinettets omskiftelige og fantasifulle historieformidling ble byttet ut med vitenskapens strenge virkelighetstyranni.
@@ -56,6 +56,7 @@ Håpet er at verket kan inngå i deler av undervisningen, for å sette søkelyse
 
 ##Lenker
 
+* * *
 ##Bidragsytere
 
 Assistent: David Augusto Rios Alomia
@@ -72,7 +73,7 @@ Kunstkonsulenter: Sissel Lillebostad, Arne Rygg
 
 Kunstner: Markus Li Stensrud
 
-
+* * *
 ##Takk til
 
 In no order of appearance: Ida Madsen Følling, David Augusto Rios Alomia, Sissel Lillebostad, Arne Rygg, Tag Team Studio, Germain Ngoma, Bjarte Bjørkum, Sigmund Rolfsjord, Hole Glass, Hordaland Fylkeskommune, Amalie Skram videregående skole, Bjørn Lyngedal, Sara Li Stensrud, Nina Madsen, Sarah Jost, Victor Mutelekesha, Oda Stensrud, Amundsen Hobby, Wilfred Li Følling, August Følling Stensrud
