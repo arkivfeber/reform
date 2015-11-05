@@ -121,9 +121,6 @@ hr + p {
 hr {
   border: none; }
 
-p + pre {
-  margin-top: -30px; }
-
 pre {
   font-family: "Courier New", Courier, monospace;
   margin-bottom: 0; }
