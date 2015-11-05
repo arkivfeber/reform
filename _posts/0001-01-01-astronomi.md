@@ -146,16 +146,22 @@ Aby Warburg died in Hamburg on the 26th of October 1929. On his grave was erecte
 
 <https://en.wikipedia.org/wiki/Monolith_(Space_Odyssey)>
 
+* * *
 <http://www.rogerebert.com/rogers-journal/2001-the-monolith-and-the-message>
 
+* * *
 <https://www.youtube.com/watch?v=HhwWAciO6F4 - t=17>
 
+* * *
 <http://archetypeonlinemagazine.com/2014/06/05/space-odyssey/>
 
+* * *
 <https://www.youtube.com/watch?v=c8N72t7aScY - t=12>
 
+* * *
 <https://1989nineteeneightynine.wordpress.com/2013/08/22/2001-a-space-odyssey-a-film-of-music-and-mysticism/>
 
+* * *
 <http://1080plus.com/3CglvOos2bA.video>
 
 <https://www.nasa.gov/mission_pages/station/main/2001_anniversary.html - .VjUD8OnqI7c>
