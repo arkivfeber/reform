@@ -49,6 +49,8 @@ På samme måte befinner skolen som institusjon seg i krysningspunktet mellom de
 * * *
 Håpet er at verket kan inngå i deler av undervisningen, for å sette søkelyset på historisk bevissthet og kildekritikk, og, kanskje først og fremst, som en inngang til det som ligger bakenfor speilet: kunst, litteratur, filosofi og mytologi. På den måten kan undringen erstatte de vedtatte sannhetene og gjøre historien, og fagene, levende.
 
+
+
 ##Lenker
 
 ##Bidragsytere
