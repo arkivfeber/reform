@@ -34,17 +34,19 @@ En fellesnevner på tvers av estetikk, metode, epoke og reform, er skolen som mo
 >   innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat
     innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat
     innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat innrykket sitat
-    
+
 
 Det digitale skal imidlertid ikke settes på gangen. Internett har åpnet opp for noe annet, noe som ideelt sett burde komme i tillegg til gamle, håndfaste og taktile formidlingsverktøy. Internett er mere enn et sted der du finner det (eller den) du leter etter. Internett er et uendelig assosiasjonsverktøy og selve oppfyllelsen av den franske opplysningsfilosofen Denis Diderots (1713-1784) visjon om en altomfattende encyklopedi. Derfor er den andre halvdelen av dette verket en nettside der man finner referansegrunnlaget til hver og en av verkets 33 modeller/objekter. Det vil si både visuelle, teoretiske, historiske, filosofiske, litterære og kulturelle referanser som er med på å utvide forståelsen av hvert fag.
 
 Med detaljrikdommen og materialbevisstheten til gamle formidlingsverktøy, og de uendelige assosiasjonsmulighetene og den altomfattende kunnskapsbasen til internett, forener verket det beste fra to tider.
 
-Den fysisk tilstedeværende delen av verket består av 33 miniatyrmodeller/objekter, plassert i tre rekker over hverandre, inne i en glassvitrine. Vitrinen måler h 180 x b 300 x d 50 cm. Objektene er laget i et bredt spekter av materialer, og er alt fra funne gjenstander i 1:1 og miniatyrmodeller i ulike skalaforhold. Glassvitrinen er laget i svartlakkert stål og 10mm tykt, laminert glass. Den er plassert på gulvet og forankret til en stor vegg i vrimlearealet i 3. etasje. (se side 4 for bilde).
+* * *
+Den fysisk tilstedeværende delen av verket består av 33 miniatyrmodeller/ objekter, plassert i tre rekker over hverandre, inne i en glassvitrine. Vitrinen måler h 180 x b 300 x d 50 cm. Objektene er laget i et bredt spekter av materialer, og er alt fra funne gjenstander i 1:1 og miniatyrmodeller i ulike skalaforhold. Glassvitrinen er laget i svartlakkert stål og 10mm tykt, laminert glass. Den er plassert på gulvet og forankret til en stor vegg i vrimlearealet i 3. etasje.
 
 32 av modellene/objektene representerer hvert sitt fag. Det 33. objektet er en miniatyrmodell av et rom fylt av et ekspresjonistisk månelandskap. I løpet av 18- og 1900-tallet gikk månen fra å være et symbol på det underbevisste og irrasjonelle til å symbolisere det rasjonelle og vitenskapelige – menneskehetens ypperste teknologiske bragd. Månerommet må derfor anses som en representasjon av grenselandet mellom romantikk, undring og fantasi på den ene siden, og rasjonell vitenskap, teknologi og fakta på den andre. Etter min mening bør også den ideelle skole befinne seg i dette grenselandet.
-En asymmetrisk del på ca 20 x 20 cm er fjernet fra miniatyrmånerommets fremre, venstre hjørne, og det er grunnflaten til denne delen som utgjør utgangspunktet for grunnflatene til hver av de 32 modellene/objektene. Dvs. at hver modell/objekt passer inn i månerommet, som biter i et puslespill. Månerommet blir en metafor for et klasserom.
+En asymmetrisk del på ca 20 x 20 cm er fjernet fra miniatyr- månerommets fremre, venstre hjørne, og det er grunnflaten til denne delen som utgjør utgangspunktet for grunnflatene til hver av de 32 modellene/ objektene. Dvs. at hver modell/objekt passer inn i månerommet, som biter i et puslespill. Månerommet blir en metafor for et klasserom.
 
+* * *
 Den store glassvitrinen ligner en krysning mellom et arkiv og et kuriositetskabinett. Kuriositetskabinettet, museets forløper, var private samlinger av gjenstander samlet på ekspedisjoner til de mange nye verdener som utfoldet seg  på 17 og 1800-tallet. Sammenstillingen av gjenstandene ble som regel gjort etter estetiske hensyn og/eller etter et ønske om å skape interessante fortellinger. Da de langt mer sterile museene etter hvert overtok som formidlere ble kriterier som rase, kategori, fauna osv. satt i høysetet og kuriositetskabinettets omskiftelige og fantasifulle historieformidling ble byttet ut med vitenskapens strenge virkelighetstyranni.
 
 Kuriositetskabinettet er med andre ord et godt forbilde for en hierarkiløs behandling av skolen og dets fag,
@@ -52,9 +54,17 @@ og lar samtidig elementer fra ulike tider og sfærer skape lag på lag av fortel
 
 På samme måte befinner skolen som institusjon seg i krysningspunktet mellom det konserverende og tilbakeskuende, og det skapende og fremadrettede.
 
+* * *
 Håpet er at verket kan inngå i deler av undervisningen, for å sette søkelyset på historisk bevissthet og kildekritikk, og, kanskje først og fremst, som en inngang til det som ligger bakenfor speilet: kunst, litteratur, filosofi og mytologi. På den måten kan undringen erstatte de vedtatte sannhetene og gjøre historien, og fagene, levende.
 
+
+
 ##Lenker
+
+<https://en.wikipedia.org/wiki/Denis_Diderot>
+<https://en.wikipedia.org/wiki/Encyclop%C3%A9die>
+<https://en.wikipedia.org/wiki/Jacques_Derrida>
+<https://en.wikipedia.org/wiki/Archive_Fever>
 
 ##Bidragsytere
 
@@ -75,4 +85,5 @@ Kunstner: Markus Li Stensrud
 
 ##Takk til
 
+* * *
 In no order of appearance: Ida Madsen Følling, David Augusto Rios Alomia, Sissel Lillebostad, Arne Rygg, Tag Team Studio, Germain Ngoma, Bjarte Bjørkum, Sigmund Rolfsjord, Hole Glass, Hordaland Fylkeskommune, Amalie Skram videregående skole, Bjørn Lyngedal, Sara Li Stensrud, Nina Madsen, Sarah Jost, Victor Mutelekesha, Oda Stensrud, Amundsen Hobby, Wilfred Li Følling, August Følling Stensrud
