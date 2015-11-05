@@ -56,7 +56,7 @@ Håpet er at verket kan inngå i deler av undervisningen, for å sette søkelyse
 
 ##Lenker
 
-* * *
+
 ##Bidragsytere
 
 Assistent: David Augusto Rios Alomia
@@ -73,7 +73,7 @@ Kunstkonsulenter: Sissel Lillebostad, Arne Rygg
 
 Kunstner: Markus Li Stensrud
 
-* * *
+
 ##Takk til
 
 In no order of appearance: Ida Madsen Følling, David Augusto Rios Alomia, Sissel Lillebostad, Arne Rygg, Tag Team Studio, Germain Ngoma, Bjarte Bjørkum, Sigmund Rolfsjord, Hole Glass, Hordaland Fylkeskommune, Amalie Skram videregående skole, Bjørn Lyngedal, Sara Li Stensrud, Nina Madsen, Sarah Jost, Victor Mutelekesha, Oda Stensrud, Amundsen Hobby, Wilfred Li Følling, August Følling Stensrud
