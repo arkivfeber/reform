@@ -41,6 +41,7 @@ Med detaljrikdommen og materialbevisstheten til gamle formidlingsverktøy, og de
 Den fysisk tilstedeværende delen av verket består av 33 miniatyrmodeller/ objekter, plassert i tre rekker over hverandre, inne i en glassvitrine. Vitrinen måler h 180 x b 300 x d 50 cm. Objektene er laget i et bredt spekter av materialer, og er alt fra funne gjenstander i 1:1 og miniatyrmodeller i ulike skalaforhold. Glassvitrinen er laget i svartlakkert stål og 10mm tykt, laminert glass. Den er plassert på gulvet og forankret til en stor vegg i vrimlearealet i 3. etasje.
 
 32 av modellene/objektene representerer hvert sitt fag. Det 33. objektet er en miniatyrmodell av et rom fylt av et ekspresjonistisk månelandskap. I løpet av 18- og 1900-tallet gikk månen fra å være et symbol på det underbevisste og irrasjonelle til å symbolisere det rasjonelle og vitenskapelige – menneskehetens ypperste teknologiske bragd. Månerommet må derfor anses som en representasjon av grenselandet mellom romantikk, undring og fantasi på den ene siden, og rasjonell vitenskap, teknologi og fakta på den andre. Etter min mening bør også den ideelle skole befinne seg i dette grenselandet.
+
 En asymmetrisk del på ca 20 x 20 cm er fjernet fra miniatyr- månerommets fremre, venstre hjørne, og det er grunnflaten til denne delen som utgjør utgangspunktet for grunnflatene til hver av de 32 modellene/ objektene. Dvs. at hver modell/objekt passer inn i månerommet, som biter i et puslespill. Månerommet blir en metafor for et klasserom.
 
 * * *
