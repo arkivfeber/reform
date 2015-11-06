@@ -85,7 +85,7 @@ Glassmester: Hole Glass
 ***
 Kunstkonsulenter: Sissel Lillebostad, Arne Rygg
 
-
+***
 Oppdragsgivere: Hordaland Fylkeskommune, KORO
 
 ***
