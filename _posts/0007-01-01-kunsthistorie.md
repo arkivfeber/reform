@@ -96,13 +96,34 @@ referanser:
   - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/07Kunstref/kunref46.jpg
 
 
-
----
 tekst: ja
+---
+##Monkey Business
 
-*Hei, hei.* (dette blir kursiv)
-**Hei, hei.** (dette blir bold)
-***Hei, hei.*** (dette blir kursiv og bold)
+A piece of the soviet satelite Sputnik 1, the first man made object to orbit the Earth, almost killed a Guatemalian communist revolutionary leader, Jacobo ”Bananero” Puerto, when it fell down in the Guatemalian jungle in 1957.  The life of  ”Bananero” Puerto is documented in  the American antrophologist and psychologist Dr. Abe Wardlaw’s book *Monkey Business*, published post mortem in 1983.
+
+The communist revolutionary leader had, since the American led coup d'état in Guatemala in 1954, dedicated his life to violent resistance against the capitalist forces that ravaged South America. The main enemy was the American banana trader United Fruit Company, the par excellence of brutal, capitalist imperialism, and one of the initiators behind the previously mentioned coup.
+
+However, after having nearly been killed by what he regarded as a sign from above, ”Bananero” Puerto decided to end his violent ways and dedicate his life to God,  ”To bring light to all the dark places of the earth”.
+
+Already then NASA had, and still have, a unit responsible for localising and confiscating lost parts of rockets, satelites, spacecrafts etc. that falls down to Earth. In 1958 they turned up in large numbers at ”Bananero” Puerto’s estate and confiscated the lost part of Sputnik 1. It was by reading NASA’s report on the accomplished mission that the at the time NASA-employed psychologist Dr. Abe Wardlaw learned about the existence of Jacobo Puerto. The following years Dr. Wardlaw visited the revolutionary leader several times, and ended up being one of Puerto’s closest and most trusted friends. 
+
+For  ”Bananero” the visit from NASA made it clear that his sacred object — the messeanger from above — was not a sign from God, but an artifact from an to him  unknown Soviet space program, and once again religious belief was swapped for communism. 
+
+”Bananero’s” resistance was intensified, but his strategy was altered. In 1959 — the  same year as the Americans sent the first monkeys, Miss Able and Miss Baker, into Earth orbit — he began to gather and train a guerilla primarily consisting of monkeys. His plan was to strike The United Fruit Company at the very core: the banana plantations. From 1962 to 1967 ”Bananero” and his monkey guerilla plundered numerous plantations, and at their main base deep in the jungle the stolen goods piled up in what Dr. Wardlaw described as ”Babylonian towers of rotten bananas and banana peel, in an inferno of fruit flies”. 
+
+In 1966,  as a last step in a long line of utopian projects, ”Bananero” Puerto began building a tower of bananas and banana peel that was meant to reach all the way to the moon, ”like a bridge to a new continent”. Needles to say he never got there. In 1970, after a long period of total isolation, ”Bananero” was killed when the shelter he lived in exploded as a consequence of large amounts of fermented bananas. Dr. Wardlaw ends his final chapter with affectionate sarcasm: ”His head probably flew to bigger heights than his tower ever reached”.
+
+* * *
+In the epilogue to *Monkey Business* Dr. Wardlaw tries to figure out under what conditions Jacobo Puerto could have succeeded with his plan: 
+	
+>   <small>If the tower had a base only eight miles across, it would contain 2 977 850 cubic miles of material, wich would require 374 731 250 000 000 000 bananas (or approximately 2 623 118 750 000 000 000 banana peels). And the countless absurdities carries on: If five million men and monkeys worked for 426 years, adding a mile a week to the height of the tower, it could not be finished in time. Also, if all the world’s banana plantations were denuded of fruit, the whole earth turned into bananas, and all the oceans, seas and lakes turned into banana peel, it would not suffice: he would need another larger globe to furnish the materials. Then there is the problem of the monkeys: even if they climbed the tower at twenty miles (32,2 km) a day, they wouldn’t reach the top in 800 years. Finally the weight of the tower would wrench the earth out of its elliptical orbit around the sun. 
+ “Bananero” Puerto had at least found a solution to one of these problems: he would simply wait until his tower and the moon met in a perfect horizontal correlation, and then, like on a bridge from Brooklyn to Manhattan, he would stroll over to meet Lady Luna.</small>
+
+On Friday morning, January 2nd, 1982, Dr. Wardlaw arrived at his office on the top floor of the fifty-eight-storey high Pan Am Building, lower Manhattan. Then, without hesitation, he shattered one of the large windows with his heavy briefcase, meticulously picked up the shards that had fallen on the floor, and jumped. 
+
+While Dr. Wardlaws body was laying in the street, the papers from his briefcase began to blow across the intersection: the manuscript for *Monkey Business*. 
+
 
 ##Lenker
 
