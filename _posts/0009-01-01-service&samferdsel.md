@@ -108,72 +108,107 @@ referanser:
 
 ##Lenker
 
+* * *
 <https://en.wikipedia.org/wiki/Yuri_Gagarin>
 
+* * *
 <http://www.telegraph.co.uk/news/science/picture-galleries/8443719/Yuri-Gagarin-in-pictures-50-years-since-Russian-cosmonaut-became-first-man-in-space.html?image=1>
 
+* * *
 <http://havecamerawilltravel.com/yuri-gagarin-monument-moscow/>
 
+* * *
 <http://russianuniverse.org/2013/04/03/monument-to-the-conquerors-of-space/sam_0226/>
 
+* * *
 <http://prizmablog.com/2013/08/12/visiting-yuri-gagarins-bust-postcard-from-kyrgyzstan/>
 
+* * *
 <http://www.visualnews.com/2014/10/06/33-soviet-propaganda-posters-space-age/>
 
+* * *
 <http://www.wired.com/2012/04/russian-space-posters-auction/?pid=3667>
 
+* * *
 <http://rbth.com/articles/2011/09/30/the_man_who_flew_into_space_from_his_apartment_13509.html>
 
+* * *
 <http://www.wsj.com/articles/SB10001424052970204777904576653592697165986>
 
+* * *
 <http://www.cca.qc.ca/en/cca-recommends/838-ilya-kabakov-the-man-who-flew-into-space-from-his-apartment>
 
+* * *
 <http://www.tested.com/art/43726-sci_fi-art-propaganda-across-cultures/>
 
+* * *
 <https://www.youtube.com/watch?v=ZWJrvT9sTPk - t=191>
 
+* * *
 <http://science.howstuffworks.com/lunar-landing1.htm>
 
+* * *
 <http://gutenberg.net.au/ebooks13/1303011h.html>
 
+* * *
 <https://en.wikipedia.org/wiki/Forbidden_Planet>
 
+* * *
 <https://www.youtube.com/watch?v=8y4crGU7dkg>
 
+* * *
 <http://www.goldismoney2.com/showthread.php?75942-Futuristic-Ladies-%96-Promotional-Shots-For-The-quot-Forbidden-Planet-quot-(1956)>
 
+* * *
 <https://en.wikipedia.org/wiki/Soylent_Green>
 
+* * *
 <http://www.fangirlmag.com/soylent-green-1973/>
 
+* * *
 <https://www.youtube.com/watch?v=SVpN312hYgU>
 
+* * *
 <http://www.amc.com/talk/2008/04/could-soylent-g>
 
+* * *
 <http://www.nasa.gov/externalflash/magnus_cook/index.html>
 
+* * *
 <http://science.howstuffworks.com/astronauts-eat-in-space1.htm>
 
+* * *
 <http://www.huffingtonpost.com/2013/05/22/eat-dessert-in-space_n_3314181.html>
 
+* * *
 <http://qz.com/475471/astronauts-are-about-to-eat-the-first-food-grown-in-space/>
 
+* * *
 <https://en.wikipedia.org/wiki/Silent_Running>
 
+* * *
 <https://www.youtube.com/watch?v=R-OBV49gvmk>
 
+* * *
 <https://www.youtube.com/watch?v=NkF05D-NJMU>
 
+* * *
 <http://architecturelab.net/virgin-galactic-gateway-to-space-foster-and-partners/>
 
+* * *
 <http://science.howstuffworks.com/solar-sail4.htm>
 
+* * *
 <http://www.spaceanswers.com/futuretech/forget-the-shuttle-the-esas-vinci-spaceplane-is-the-future-of-space-travel/>
 
+* * *
 <https://www.youtube.com/watch?v=gVhRoKtyfDw>
 
+* * *
 <https://astrowright.wordpress.com/tag/aging/>
 
+* * *
 <https://en.wikipedia.org/wiki/Planet_of_the_Apes_(1968_film)>
 
+* * *
 <http://www.dailymotion.com/video/x1kt2l9_planet-of-the-apes-official-movie-trailer-1968-charlton-heston-entertainment-hollywood-movies_shortfilms>
