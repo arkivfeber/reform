@@ -127,81 +127,120 @@ While Dr. Wardlaws body was laying in the street, the papers from his briefcase 
 
 ##Lenker
 
+* * *
 <http://www.huffingtonpost.com/2013/10/28/velvet-underground-banana_n_4170126.html>
 
+* * *
 <https://en.wikipedia.org/wiki/Andy_Warhol>
 
+* * *
 <https://en.wikipedia.org/wiki/Still_life>
 
+* * *
 <http://www.wikiart.org/en/max-weber/still-life-with-red-bananas - close>
 
+* * *
 <https://en.wikipedia.org/wiki/Max_Weber_(artist)>
 
+* * *
 <https://en.wikipedia.org/wiki/Diego_Rivera>
 
+* * *
 <http://blantonmuseum.org/exhibitions/details/cubism_beyond_borders/>
 
+* * *
 <http://www.moma.org/collection/works/85365?locale=en>
 
+* * *
 <http://www.moma.org/collection/artists/4942?=undefined&page=1>
 
+* * *
 <https://mexicomystic.wordpress.com/category/diego-rivera/>
 
+* * *
 <http://www.orchestratedpulse.com/2014/08/bastards-monroe-doctrine/>
 
+* * *
 <https://theoligarchkings.wordpress.com/2010/05/27/united-fruit-company/>
 
+* * *
 <https://en.wikipedia.org/wiki/United_Fruit_Company>
 
+* * *
 <https://en.wikipedia.org/wiki/Banana_republic>
 
+* * *
 <https://en.wikipedia.org/wiki/Bananas_(film)>
 
+* * *
 <http://www.woodyallenpages.com/films/bananas/>
 
+* * *
 <https://www.youtube.com/watch?v=VfrShu_Lp2A>
 
+* * *
 <http://www.67notout.com/2011/07/woody-allen-as-banana-nose-coincidence.html>
 
+* * *
 <http://observer.com/2012/06/gold-fingers-rich-cohen-unpeels-the-tale-of-banana-man-samuel-zemurray/>
 
+* * *
 <http://www.amazon.com/Banana-Fate-Fruit-Changed-World/dp/0452290082>
 
+* * *
 <https://www.phactual.com/think-banana-9-facts-on-the-strangely-fascinating-fruit/>
 
+* * *
 <http://qz.com/164029/tropical-race-4-global-banana-industry-is-killing-the-worlds-favorite-fruit/>
 
+* * *
 <http://www.ralphmag.org/HA/banana.html>
 
+* * *
 <http://mic.com/articles/87951/how-gabriel-garcia-marquez-used-his-pen-to-bring-down-a-powerful-banana-empire>
 
+* * *
 <http://betterphotography.in/perspectives/interviews/a-world-of-mirrors/36038/>
 
+* * *
 <http://theanarchistlibrary.org/library/michael-william-the-sad-truth-femme-aux-bananes-woman-with-bananas>
 
+* * *
 <https://en.wikipedia.org/wiki/Josephine_Baker>
 
+* * *
 <https://www.youtube.com/watch?v=wmw5eGh888Y>
 
+* * *
 <http://quod.lib.umich.edu/cgi/t/text/text-idx?cc=mfsfront;c=mfs;c=mfsfront;idno=ark5583.0019.003;rgn=main;view=text;xc=1;g=mfsg>
 
+* * *
 <http://www.eatmedaily.com/2009/04/banana-peel-as-art-adriana-laras-installation-at-the-new-museums-the-generational-younger-than-jesus-show-food-art/>
 
+* * *
 <http://afmuseet.no/blogg/2015/juni/adriana-lara--installation>
 
+* * *
 <http://www.dagbladet.no/2015/06/05/kultur/kagge/litteratur/bok/erling_kagge/39520254/>
 
+* * *
 <https://no.wikipedia.org/wiki/Konseptkunst>
 
+* * *
 <https://en.wikipedia.org/wiki/Concept_art>
 
+* * *
 <https://en.wikipedia.org/wiki/Readymades_of_Marcel_Duchamp>
 
+* * *
 <http://www.dada-companion.com/duchamp/readymades.php>
 
+* * *
 <https://en.wikipedia.org/wiki/L.H.O.O.Q.>
 
+* * *
 <http://www.invisiblebooks.com/Duchamp.htm>
 
+* * *
 <http://www.tate.org.uk/art/artworks/duchamp-dart-object-t07280>
 
