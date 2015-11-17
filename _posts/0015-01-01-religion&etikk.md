@@ -125,3 +125,124 @@ referanser:
 
 
 ##Lenker
+
+* * *
+<http://www.guggenheim.org/new-york/exhibitions/publications/from-the-archives/items/view/211>
+
+* * *
+<http://bombmagazine.org/article/5029/painted-into-a-beautiful-corner-malevich-at-the-gagosian>
+
+* * *
+<http://www.stedelijk.nl/en/exhibitions/kazimir-malevich-and-the-russian-avant-garde>
+
+* * *
+<http://wtfarthistory.com/post/8171511238/why-is-it-art>
+
+* * *
+<https://en.wikipedia.org/wiki/Suprematism>
+
+* * *
+<https://en.wikipedia.org/wiki/Kazimir_Malevich>
+
+* * *
+<http://www.citrinitas.com/history_of_viscom/images/avantgarde/malevich.html>
+
+* * *
+<http://www.stedelijk.nl/en/press/press-images/malevich>
+
+* * *
+<http://www.penccil.com/gallery.php?p=516421968433>
+
+* * *
+<http://www.e-flux.com/journal/becoming-revolutionary-on-kazimir-malevich/>
+
+* * *
+<http://www.wikiart.org/en/kazimir-malevich/suprematism-4>
+
+* * *
+<http://www.wikiart.org/en/kazimir-malevich/mystical-religious-rotation-of-shape>
+
+* * *
+<http://www.wikiart.org/en/kazimir-malevich/sketch-for-a-portrait-of-ivan-klyun>
+
+* * *
+<http://www.wikiart.org/en/kazimir-malevich/sketch-to-the-portrait-of-a-builder>
+
+* * *
+<http://www.wikiart.org/en/kazimir-malevich/woodcutter>
+
+* * *
+<http://www.wikiart.org/en/kazimir-malevich/three-suprematic-figures>
+
+* * *
+<http://www.wikiart.org/en/kazimir-malevich/mystic-1>
+
+* * *
+<http://www.wikiart.org/en/kazimir-malevich/mystic>
+
+* * *
+<http://www.wikiart.org/en/kazimir-malevich/men-s-head>
+
+* * *
+<http://www.wikiart.org/en/kazimir-malevich/motherhood>
+
+* * *
+<https://en.wikipedia.org/wiki/Russian_icons>
+
+* * *
+<http://museumofrussianicons.org/en/about/iconography/history-of-icons/>
+
+* * *
+<https://iconreader.wordpress.com/>
+
+* * *
+<https://iconreader.wordpress.com/2012/08/19/saints-who-destroyed-religious-images/>
+
+* * *
+<http://blogs.nd.edu/communism-spring-2015/lenin-as-icon/>
+
+* * *
+<http://pankajris2006.blogspot.no/2006/02/russian-propaganda-posters-17-84.html>
+
+* * *
+<http://graphicwitness.org/undone/rp.htm>
+
+* * *
+<http://www.johndclare.net/Russ6_SovietPropaganda.htm>
+
+* * *
+<https://en.wikipedia.org/wiki/Propaganda_in_the_Soviet_Union>
+
+* * *
+<http://anyimages.info/galleryldwn-lenin-propaganda.htm>
+
+* * *
+<http://www.forbes.com/sites/katyasoldak/2014/09/28/ukrainian-crowds-topple-lenin-statue-again/>
+
+* * *
+<http://www.nbcnews.com/news/other/icon-o-clash-ukrainian-protesters-topple-statue-lenin-kiev-f2D11712710>
+
+* * *
+<http://www.ibtimes.co.uk/good-bye-lenin-statues-dictators-toppled-around-world-photos-1467932>
+
+* * *
+<http://germanhistorydocs.ghi-dc.org/sub_image.cfm?image_id=3171>
+
+* * *
+<https://www.marxists.org/archive/krupskaya/works/ethics.htm>
+
+* * *
+<http://www.allaboutworldview.org/marxist-ethics.htm>
+
+* * *
+<https://adventuresincemeteryhopping.wordpress.com/2014/05/16/vladimir-lenin-the-extreme-emblaming-pioneer/>
+
+* * *
+<https://en.wikipedia.org/wiki/Lenin%27s_Mausoleum>
+
+* * *
+<http://thecharnelhouse.org/2014/03/12/suprematism-in-architecture-kazimir-malevich-and-the-arkhitektons/>
+
+* * *
+<http://www.artnet.com/artists/kazimir-malevich/suprematist-sculptural-composition-7V1dRvyyn7bnI092_XVfRQ2>
+
