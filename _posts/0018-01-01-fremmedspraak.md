@@ -98,10 +98,67 @@ referanser:
 
 
 ---
-tekst: ja
 
-*Hei, hei.* (dette blir kursiv)
-**Hei, hei.** (dette blir bold)
-***Hei, hei.*** (dette blir kursiv og bold)
 
 ##Lenker
+
+* * *
+<https://en.wikipedia.org/wiki/The_Treachery_of_Images>
+
+* * *
+<http://www.newyorker.com/magazine/2013/09/23/strange-days>
+
+* * *
+<https://en.wikipedia.org/wiki/Ren%E2%88%9A%C2%A9_Magritte>
+
+* * *
+<http://www.fine-arts-museum.be/en/museums/musee-magritte-museum>
+
+* * *
+<https://en.wikipedia.org/wiki/Surrealism>
+
+* * *
+<http://www.jstor.org/stable/440527?seq=1 - page_scan_tab_contents>
+
+* * *
+<http://www.academia.edu/1524592/_The_surrealist_experiments_with_language_>
+
+* * *
+<http://www.renemagritte.org/personal-values.jsp>
+
+* * *
+<http://www.wikiart.org/en/rene-magritte/beautiful-world-1962>
+
+* * *
+<http://www.wikiart.org/en/rene-magritte/high-society-1962>
+
+* * *
+<http://www.renemagritte.org/the-false-mirror.jsp>
+
+* * *
+<http://www.renemagritte.org/rene-magritte-paintings.jsp>
+
+* * *
+<http://www.consulfrance-chicago.org/FMEX/?p=1179>
+
+* * *
+<https://en.wikipedia.org/wiki/Surrealist_techniques>
+
+* * *
+<http://smak.be/fr/artwork/7467>
+
+* * *
+<http://www.mattesonart.com/friends-of-magrittemarcel-broodthaers-.aspx>
+
+* * *
+<http://theimportanceofbeing.be/marcel-broodthaers/>
+
+* * *
+<http://artobserved.com/2010/11/dont-miss-new-york-marcel-broodthaers-major-works-at-michael-werner-through-november-13-2010/>
+
+* * *
+<http://search.it.online.fr/covers/?m=1929>
+
+* * *
+<http://www.artic.edu/event/teacher-workshop-art-and-language-visual-literacy-and-foreign-language-learners>
+
