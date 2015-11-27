@@ -136,3 +136,102 @@ Maximilian Merz died from a gastric ulcer in 1999. His body was found sitting in
 
 
 ##Lenker
+
+* * *
+<http://www.merzbarn.net/hanovermerzbau.html>
+
+* * *
+<https://en.wikipedia.org/wiki/Kurt_Schwitters>
+
+* * *
+<http://www.dadart.com/dadaism/dada/038-Schwitters.html>
+
+* * *
+<http://www.caspardavidfriedrich.org/>
+
+* * *
+<https://en.wikipedia.org/wiki/Caspar_David_Friedrich>
+
+* * *
+<https://emmarobinsonfilm.wordpress.com/2012/05/01/expressionism-and-romanticism/>
+
+* * *
+<https://en.wikipedia.org/wiki/German_Expressionism>
+
+* * *
+<http://www.artnews.com/2011/10/13/lyonel-feininger/>
+
+* * *
+<http://www.wikiart.org/en/lyonel-feininger/hanseatic-ships-hansaschiffe-1919>
+
+* * *
+<https://www.artsy.net/artwork/lyonel-feininger-kapelle-im-wald>
+
+* * *
+<https://en.wikipedia.org/wiki/Lyonel_Feininger>
+
+* * *
+<http://modernism.research.yale.edu/wiki/index.php/German_Cinema_between_1920_and_1930>
+
+* * *
+<http://centerforcreativemedia.com/index.php/german-expressionism/>
+
+* * *
+<http://cinecollage.net/german-expressionism.html>
+
+* * *
+<https://en.wikipedia.org/wiki/File:The_Cabinet_of_Dr_Caligari_Holstenwall.png>
+
+* * *
+<https://cinemaburn.wordpress.com/2012/01/22/the-cabinet-of-dr-caligari/>
+
+* * *
+<https://randomcrusader.wordpress.com/2009/05/04/the-birth-of-the-horror-film-german-expressionism-and-the-cabinet-of-doctor-caligari/>
+
+* * *
+<https://storify.com/candicewyckoff/german-expressionism>
+
+* * *
+<http://www.academia.edu/5062803/Shadow_of_Weimar_Imagery_in_German_Cinema_1920-1924>
+
+* * *
+<http://thebombparty.blogspot.no/2010/09/two-late-expressionist-utopias-frau-im.html>
+
+* * *
+<http://diaboliquemagazine.com/frau-im-mond-k-woman-moon-uk-blu-ray-review/>
+
+* * *
+<http://zoppy.blogspot.no/2013/10/woman-in-moon-1929-also-called-frau-im.html>
+
+* * *
+<https://archive.org/details/moonconsideredas00nasmrich>
+
+* * *
+<https://standrewsrarebooks.wordpress.com/2012/07/30/52-weeks-of-inspiring-illustrations-week-6-nasmyths-moon-images/>
+
+* * *
+<http://www.sciencemuseum.org.uk/online_science/explore_our_collections/objects/index/smxg-486053>
+
+* * *
+<http://www.sciencemuseum.org.uk/online_science/explore_our_collections/objects/index/smxg-8037239>
+
+* * *
+<http://chesleybonestell.tumblr.com/post/90369676094/the-evolution-of-a-space-icon>
+
+* * *
+<https://en.wikipedia.org/wiki/Chesley_Bonestell>
+
+* * *
+<http://io9.com/the-artist-who-helped-invent-space-travel-452436111>
+
+* * *
+<http://www.airspacemag.com/daily-planet/chesley-bonestell-and-the-landscape-of-the-moon-120863737/?no-ist>
+
+* * *
+<https://en.wikipedia.org/wiki/Destination_Moon_(film)>
+
+* * *
+<http://news.nationalgeographic.com/news/energy/2014/02/140211-germany-plans-to-raze-towns-for-brown-coal/>
+
+* * *
+<https://en.wikipedia.org/wiki/Lignite>
