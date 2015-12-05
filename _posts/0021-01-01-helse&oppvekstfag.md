@@ -87,3 +87,93 @@ referanser:
 
 
 ##Lenker
+
+* * *
+<https://en.wikipedia.org/wiki/Maman_(sculpture)>
+
+* * *
+<http://www.guggenheim-bilbao.es/en/works/maman/>
+
+* * *
+<http://www.mymodernmet.com/profiles/blogs/louise-bourgeois-maman>
+
+* * *
+<https://www.youtube.com/watch?v=OwTcFATTTXY>
+
+* * *
+<https://www.youtube.com/watch?v=SZcEVkrcD5w>
+
+* * *
+<https://mikebyrne30.wordpress.com/2013/11/21/louise-bourgeois/>
+
+* * *
+<http://openspace.sfmoma.org/2010/06/louise-bourgeois-1911-2010/>
+
+* * *
+<http://www.nytimes.com/2006/05/05/arts/design/05bour.html?_r=0>
+
+* * *
+<http://www.levinartgroup.com/visuals-detail-07.php>
+
+* * *
+<http://www.huffingtonpost.com/2014/12/25/louise-bourgeois-birthday_n_6373616.html>
+
+* * *
+<http://mindtheimage.com/louise-bourgeois-at-the-moca-los-angeles/>
+
+* * *
+<http://www.hausderkunst.de/en/agenda/detail/louise-bourgeois-structures-of-existence-the-cells/>
+
+* * *
+<http://wtfarthistory.com/post/40851838486/the-view-of-the-world-of-the-jealous-wife>
+
+* * *
+<https://www.ngv.vic.gov.au/louise-bourgeois-cell-glass-spheres-and-hands-1990-1993/>
+
+* * *
+<http://nialldebuitlear.com/blog/?p=800>
+
+* * *
+<http://ekebergparken.com/en/kunst/couple>
+
+* * *
+<http://artblart.com/tag/louise-bourgeois-blue-days/>
+
+* * *
+<http://www.db-artmag.com/archiv/2004/e/9/1/293-4.html>
+
+* * *
+<https://www.nationalgalleries.org/whatson/exhibitions/artist-rooms-louise-bourgeois-a-woman-without-secrets/highlights-23510>
+
+* * *
+<http://arttattler.com/archivebourgeois.html>
+
+* * *
+<https://somekindofwonderfull.wordpress.com/author/nazarenaluzzi/page/5/>
+
+* * *
+<http://canadianart.ca/online/see-it/2011/08/18/deja/>
+
+* * *
+<http://www.nytimes.com/1994/09/30/arts/art-review-self-analysis-by-bourgeois-in-two-shows.html>
+
+* * *
+<http://suehubbard.com/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=170&cntnt01returnid=57>
+
+* * *
+<https://www.youtube.com/watch?v=TiGjzV7Nk48>
+
+* * *
+<https://en.wikipedia.org/wiki/My_Bed>
+
+* * *
+<http://www.saatchigallery.com/artists/artpages/tracey_emin_my_bed.htm>
+
+* * *
+<http://www.theguardian.com/uk-news/2015/mar/30/tracey-emins-messy-bed-displayed-tate-britain-first-time-in-15-years>
+
+* * *
+<http://www.hauserwirth.com/exhibitions/814/louise-bourgeois-tracey-emin-do-not-abandon-me/view>
+
+* * *
+<https://www.nationalgalleries.org/collection/artists-a-z/e/artist/tracey-emin/object/mum-smoking-from-family-suite-gma-4784-a>
