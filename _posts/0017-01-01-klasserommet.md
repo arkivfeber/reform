@@ -121,7 +121,7 @@ In the dead of winter
 I am the last. Everyone’s gone to the moon. According to my observations I carry the lunar surface on the back of my hands and in my face. The irony of fate: Before long there will be trees everywhere. 
 
 * * *
-**Notes on the origin of the text:
+**Notes on the origin of the text:**
 
 * * *
 In John le Carré’s autobiography *A Most Wanted Man* (2008) the author, a former British spy, writes about his meeting with a German double agent, Hans-Dieter Mundt, in 1962: “He was like a German Humphrey Bogart. The only thing you owe the world is a good performance. That was his only words. And what a great performance. The perfect double agent. For all I knew he could have been both Yuri Gagarin and Alan Shepard”.
