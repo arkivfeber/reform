@@ -102,5 +102,105 @@ referanser:
 
 ---
 
-
 ##Lenker
+
+
+* * *
+<https://en.wikipedia.org/wiki/Counterfactual_history>
+
+* * *
+<https://en.wikipedia.org/wiki/Moon_landing_conspiracy_theories>
+
+* * *
+<http://paleofuture.gizmodo.com/real-apollo-11-training-photos-look-like-prep-for-a-fak-1554818706>
+
+* * *
+<http://www.openculture.com/2014/07/stanley-kubrick-faked-the-apollo-11-moon-landing-45-years-ago-or-so-the-conspiracy-theory-goes.html>
+
+* * *
+<https://www.inverse.com/article/6655-fan-theory-101-did-kubrick-admit-to-faking-the-moon-landing-in-the-shining>
+
+* * *
+<https://www.youtube.com/watch?v=sGXTF6bs1IU - t=94>
+
+* * *
+<http://thetruthinsidethelie.blogspot.no/2013/10/movie-review-room-237.html>
+
+* * *
+<https://en.wikipedia.org/wiki/Room_237>
+
+* * *
+<https://www.youtube.com/watch?v=_u4A5tJ2j3o>
+
+* * *
+<https://launiusr.wordpress.com/2012/05/29/what-if-counterfactuals-in-space-history/>
+
+* * *
+<https://www.youtube.com/watch?v=GNWEKr-nbIM>
+
+* * *
+<http://io9.com/5791144/would-a-soviet-moon-landing-have-forced-the-us-to-go-to-mars>
+
+* * *
+<http://www.changingthetimes.net/samples/coldwar/what_if_the_ussr_had_won_the_col.htm>
+
+* * *
+<http://www.alternatehistory.com/discussion/showthread.php?t=72581>
+
+* * *
+<https://moonconspiracy.wordpress.com/the-nazis-had-a-base-on-the-moon/>
+
+* * *
+<http://topekasnews.com/nasa-discovers-new-nazi-base-moon-america-must-invade-possibly-destroy/>
+
+* * *
+<http://news.discovery.com/space/history-of-space/would-the-nazis-have-gone-to-the-moon-130813.htm>
+
+* * *
+<https://en.wikipedia.org/wiki/Nazi_UFOs>
+
+* * *
+<http://www.theforbiddenknowledge.com/hardtruth/nazi_ufo_connection.htm>
+
+* * *
+<http://skeptica.dk/artikler/?p=8238>
+
+* * *
+<https://www.youtube.com/watch?v=ljR1JlESJYw>
+
+* * *
+<http://www.marsmoonspace.com/villy-rasmussen-saw-nazi-ufo>
+
+* * *
+<https://www.youtube.com/watch?v=kGuFPLM70vQ>
+
+* * *
+<https://www.youtube.com/watch?v=hV4Jb3Wna5g>
+
+* * *
+<https://en.wikipedia.org/wiki/Iron_Sky>
+
+* * *
+<http://www.dailymail.co.uk/news/article-2111439/Iron-Sky-Sci-Fi-comedy-Nazis-invading-Earth-space-Germans-laughing.html>
+
+* * *
+<https://www.youtube.com/watch?v=Py_IndUbcxc>
+
+* * *
+<https://www.youtube.com/watch?v=uX2cS8wvQHI>
+
+* * *
+<http://www.realclear.com/offbeat/2014/06/12/hilariously_outthere_conspiracy_theories_7441.html>
+
+* * *
+<https://en.wikipedia.org/wiki/Hypothetical_Axis_victory_in_World_War_II>
+
+* * *
+<https://en.wikipedia.org/wiki/The_Man_in_the_High_Castle>
+
+* * *
+<http://www.atlasobscura.com/articles/how-book-designers-around-the-world-interpreted-philip-k-dicks-the-man-in-high-castle>
+
+* * *
+<http://uk.businessinsider.com/the-man-in-the-high-castle-review-2015-6?r=US&IR=T>
+
