@@ -16,7 +16,8 @@ dokumentasjon:
 
 
 referanser:
-  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/07Kunstref/kunref01.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/07Kunstref/kunref01a.jpg
+  - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/07Kunstref/kunref01b.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/07Kunstref/kunref02.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/07Kunstref/kunref03.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/07Kunstref/kunref04.jpg
