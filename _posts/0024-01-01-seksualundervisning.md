@@ -272,6 +272,18 @@ referanser:
 <http://konangalfilmsociety.blogspot.no/2015/02/22nd-feb-2015-luis-bunuels.html>
 
 * * *
+<http://lisathatcher.com/2011/03/17/diary-of-a-chambermaid-bunuel-at-his-best/>
+
+* * *
+<http://www.thepinksmoke.com/diaryofachambermaidpage3.htm>
+
+* * *
+<http://sensesofcinema.com/2005/cteq/diary_chambermaid/>
+
+* * *
+<https://newslang89.wordpress.com/2012/09/09/diary-of-a-chambermaid-1964/>
+
+* * *
 <https://en.wikipedia.org/wiki/That_Obscure_Object_of_Desire>
 
 * * *
