@@ -317,6 +317,18 @@ referanser:
 <https://en.wikipedia.org/wiki/Muse>
 
 * * *
+<https://en.wikipedia.org/wiki/Sappho>
+
+* * *
+<http://www.poetryfoundation.org/bio/sappho>
+
+* * *
+<http://altamontenterprise.com/opinion/columns/field-notes/06032015/sappho%E2%80%9A%C3%84%C3%B4s-song-mirror-listener%E2%80%9A%C3%84%C3%B4s-soul>
+
+* * *
+<http://www.nytimes.com/2002/08/26/books/books-of-the-times-the-mystery-of-sappho-and-her-erotic-legacy.html>
+
+* * *
 <http://www.complex.com/style/2013/05/the-30-most-famous-muses-in-art/renee-perle>
 
 * * *
