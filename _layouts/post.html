@@ -1,13 +1,14 @@
----
-layout: default
-ispost: true
----
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
 <style>
     body {
         padding-left: 40px;
         padding-right: 40px;
         padding-bottom: 40px;
     }
+
     #sb-site {
         margin-left: auto;
         margin-right: auto;
@@ -16,39 +17,70 @@ ispost: true
     }
 
 </style>
-<div id="tekst" class="post">
+<body>
+
+<div class="filler-block" style="height:1080px;"></div>
+
+<main id="sb-site" {% if page.home %} class="home" {% endif %} style="min-height: inherit;">
+    <div class="container">
+        <div class="wrapper">
+            <div id="tekst" class="post">
 
 
-    <header class="post-header">
-        <h1 class="post-title">{{ page.title }}</h1>
-    </header>
+                <header class="post-header">
+                    <h1 class="post-title">{{ page.title }}</h1>
+                </header>
 
-    <article  class="post-content">
-        <a class="close-post">×</a>
-        {{ content }}
-        <div id="links">
-            <!-- Slides -->
-            {% for referanse in page.referanser %}
-            <a href={{referanse}} data-gallery="referanser">
-            </a>
+                <article class="post-content">
+                    <a class="close-post">×</a>
+                    <div id="lenker">
+                        {{ content }}
+                    </div>
+                    <div id="links">
+                        <!-- Slides -->
+                        {% for referanse in page.referanser %}
+                        <a href={{referanse}} data-gallery="referanser">
+                        </a>
 
-            {% endfor %}
+                        {% endfor %}
+                    </div>
+
+                    <div id="dokumentasjon">
+                        <!-- Slides -->
+                        {% for dok in page.dokumentasjon %}
+                        <a href={{dok}} data-gallery="dokumentasjon">
+                        </a>
+
+                        {% endfor %}
+                    </div>
+                </article>
+
+                <div class="preloader" style="height:0; overflow: hidden">
+                    <img src="{{page.referanser[0]}}">
+                    <img src="{{page.dokumentasjon[0]}}">
+                </div>
+
+            </div>
         </div>
-
-        <div id="dokumentasjon">
-            <!-- Slides -->
-            {% for dok in page.dokumentasjon %}
-            <a href={{dok}} data-gallery="dokumentasjon">
-            </a>
-
-            {% endfor %}
-        </div>
-    </article>
-
-    <div class="preloader" style="height:0; overflow: hidden">
-        <img src="{{page.referanser[0]}}">
-        <img src="{{page.dokumentasjon[0]}}">
     </div>
 
+</main>
+
+{% include js.html %}
+
+<div class="background">
+    <img src="{{page.backgrounds[0]}}">
 </div>
+</body>
+<div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls" data-use-bootstrap-modal="true">
+    <!-- The container for the modal slides -->
+    <div class="slides"></div>
+    <!-- Controls for the borderless lightbox -->
+    <a class="prev">‹</a>
+    <a class="next">›</a>
+    <a class="close">×</a>
+</div>
+{% include sidebar.html %}
+
+</html>
 

@@ -14,7 +14,7 @@ dokumentasjon:
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/21.helse4.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/21.helse5.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/21.helse6.jpg
-  
+
 
 
 referanser:
@@ -86,7 +86,7 @@ referanser:
 ---
 
 
-##Lenker
+## Lenker
 
 * * *
 <https://en.wikipedia.org/wiki/Maman_(sculpture)>

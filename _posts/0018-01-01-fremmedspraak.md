@@ -13,7 +13,7 @@ dokumentasjon:
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/18.frem3.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/18.frem4.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/18.frem5.jpg
-  
+
 
 
 referanser:
@@ -93,14 +93,14 @@ referanser:
   - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/18Fremref/fremref54e.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/18Fremref/fremref54f.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Ref_Reform/18Fremref/fremref55.jpg
-  
+
 
 
 
 ---
 
 
-##Lenker
+## Lenker
 
 * * *
 <https://en.wikipedia.org/wiki/The_Treachery_of_Images>

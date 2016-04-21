@@ -12,7 +12,7 @@ dokumentasjon:
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/16.psyk2.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/16.psyk3.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/16.psyk4.jpg
-  
+
 
 
 referanser:
@@ -69,7 +69,7 @@ referanser:
 ---
 
 
-##Lenker
+## Lenker
 
 * * *
 <http://galleryblog.courtauld.ac.uk/2012/07/26/spotlight-on-a-masterpiece/>

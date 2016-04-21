@@ -13,7 +13,7 @@ dokumentasjon:
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/08.litt4.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/08.litt5.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/08.litt6.jpg
-  
+
 
 
 referanser:
@@ -90,7 +90,7 @@ referanser:
 ---
 
 
-##Lenker
+## Lenker
 
 * * *
 <https://en.wikipedia.org/wiki/Life_a_User%27s_Manual>

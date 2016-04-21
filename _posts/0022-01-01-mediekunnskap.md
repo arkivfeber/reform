@@ -15,7 +15,7 @@ dokumentasjon:
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/22.medie5.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/22.medie6.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/22.medie7.jpg
-  
+
 
 
 referanser:
@@ -113,7 +113,7 @@ referanser:
 ---
 
 
-##Lenker
+## Lenker
 
 * * *
 <https://en.wikipedia.org/wiki/Crash_(J._G._Ballard_novel)>

@@ -15,7 +15,7 @@ dokumentasjon:
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/11.mat5.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/11.mat6.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/11.mat7.jpg
-  
+
 
 
 referanser:
@@ -81,7 +81,7 @@ referanser:
 ---
 
 
-##Lenker
+## Lenker
 
 * * *
 <https://en.wikipedia.org/wiki/The_Way_Things_Go>

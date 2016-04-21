@@ -12,7 +12,7 @@ dokumentasjon:
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/29.sam2.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/29.sam3.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/29.sam4.jpg
-  
+
 
 
 referanser:
@@ -27,4 +27,4 @@ tekst: ja
 **Hei, hei.** (dette blir bold)
 ***Hei, hei.*** (dette blir kursiv og bold)
 
-##Lenker
+## Lenker

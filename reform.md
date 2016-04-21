@@ -27,7 +27,7 @@ The metaphysicians of Tlön are not looking for truth, not even an approximation
 
 
 * * *
-I august 2014 ble tre av Bergens videregående skoler, Bergens handelsgymnasium, Bjørgvin og Tanks, slått sammen til den nye Amalie Skram videregående skole, liggende i et stort, påskostet signalbygg ved Store Lungegårdsvann i Bergen sentrum. Et år tidligere hadde jeg blitt kontaktet av kurator, kunstner og kunstkonsulent Sissel Lillebostad. Hun ønsket at jeg, med ugangspunkt i de tre nå nedlagte skolenes historikk og historisk materiell, skulle utforme et kunstverk til den nye Amalie Skarm videregående skole. 
+I august 2014 ble tre av Bergens videregående skoler, Bergens handelsgymnasium, Bjørgvin og Tanks, slått sammen til den nye Amalie Skram videregående skole, liggende i et stort, påskostet signalbygg ved Store Lungegårdsvann i Bergen sentrum. Et år tidligere hadde jeg blitt kontaktet av kurator, kunstner og kunstkonsulent Sissel Lillebostad. Hun ønsket at jeg, med ugangspunkt i de tre nå nedlagte skolenes historikk og historisk materiell, skulle utforme et kunstverk til den nye Amalie Skarm videregående skole.
 
 I februar 2014 dro jeg på befaring på Bergens handelsgymnasium, Bjørgvin og Tanks og fikk se tre skoler med svært ulik historikk og et stort spenn i historisk materiell. Tanks’ 150-årige historie opp mot Bjørgvins 20-årige historie. Store samlinger med skjelletter, utstoppede dyr og skapninger i formalin på den ene siden. Elevkollasjer av utklipp fra musikkmagasiner, innrammede plateomslag og pokaler på den andre. Det ble klart for meg at det kunstverket jeg skulle utforme ikke kun kan ta for se hver skoles historikk spesielt, men i større grad måtte tematisere og problematisere norsk skole, eller SKOLEN, generelt.
 
@@ -57,7 +57,7 @@ Håpet er at verket kan inngå i deler av undervisningen, for å sette søkelyse
 
 
 
-##Lenker
+## Lenker
 
 <https://en.wikipedia.org/wiki/Denis_Diderot>
 <https://en.wikipedia.org/wiki/Encyclop%C3%A9die>

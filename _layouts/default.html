@@ -5,10 +5,6 @@
 
 <body>
 
-{% if page.ispost %}
-<div class="filler-block" style="height:1080px;"></div>
-{% endif %}
-
 <main id="sb-site" {% if page.home %} class="home" {% endif %} style="min-height: inherit;">
     <div class="container">
         <div class="wrapper">
@@ -20,22 +16,6 @@
 
 {% include js.html %}
 
-{% if page.ispost %}
-<div class="background">
-    <img src="{{page.backgrounds[0]}}">
-</div>
-{% endif %}
 </body>
-{% if page.ispost %}
-<div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls" data-use-bootstrap-modal="true">
-    <!-- The container for the modal slides -->
-    <div class="slides"></div>
-    <!-- Controls for the borderless lightbox -->
-    <a class="prev">‹</a>
-    <a class="next">›</a>
-    <a class="close">×</a>
-</div>
-{% include sidebar.html %}
-{% endif %}
 
 </html>

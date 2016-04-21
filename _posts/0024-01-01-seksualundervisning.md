@@ -12,7 +12,7 @@ dokumentasjon:
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/24.seks2.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/24.seks3.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/24.seks4.jpg
-  
+
 
 
 referanser:
@@ -421,7 +421,7 @@ referanser:
 ---
 
 
-##Lenker
+## Lenker
 
 * * *
 <http://www.awaken.com/2013/04/dream-interpretation-sigmund-freud/>

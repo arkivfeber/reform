@@ -11,7 +11,7 @@ dokumentasjon:
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/26.mark1.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/26.mark2.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/26.mark3.jpg
-  
+
 
 
 referanser:
@@ -26,4 +26,4 @@ tekst: ja
 **Hei, hei.** (dette blir bold)
 ***Hei, hei.*** (dette blir kursiv og bold)
 
-##Lenker
+## Lenker

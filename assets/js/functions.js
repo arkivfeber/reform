@@ -24,14 +24,13 @@ $(document).ready(function () {
 
     var menu = $('.sb-menu');
     var topbar = $('.topbar');
-    var menuHeight = menu.height();
+    var menuHeight = 50;
     var windowHeight = $(window).height() + 10;
     var Gallery = blueimp.Gallery;
 
     var fillerBlock = $('.filler-block');
 
     var menuLinks = $('.sb-menu a');
-    var body = $('body');
 
     $(window).resize(function () {
         windowHeight = $(window).height() + 10;
@@ -40,11 +39,18 @@ $(document).ready(function () {
         }
     });
 
-    if (body.scrollTop() > 0) {
-        showingText = true;
-        fillerBlock.height(200);
+    if (window.location.hash) {
+        if (window.location.hash === '#referanser') {
+            clickReferanser();
+        } else if (window.location.hash === '#dokumentasjon') {
+            clickDokumentasjon();
+        } else {
+            showingText = true;
+            fillerBlock.height(200);
+        }
     } else {
         fillerBlock.height(windowHeight);
+        $('body').scrollTop(0);
         if (menuLinks.length) {
             disableScroll();
         }
@@ -56,7 +62,9 @@ $(document).ready(function () {
 
     $('body').click(function (event) {
         if (showingText && (event.target.tagName === 'BODY' || event.target.className.indexOf('filler-block') > -1)) {
-            scrollToTop(function() {slidebars.slidebars.close();});
+            scrollToTop(function () {
+                slidebars.slidebars.close();
+            });
         } else {
             slidebars.slidebars.close();
         }
@@ -77,30 +85,43 @@ $(document).ready(function () {
 
     function scrollToTop(cb) {
         disableScroll();
-        fillerBlock.animate({height: (windowHeight + body.scrollTop()) + 'px'}, {
+        fillerBlock.animate({height: (windowHeight + $('body').scrollTop()) + 'px'}, {
             complete: function () {
+                $('body').scrollTop(0);
                 fillerBlock.height(windowHeight);
-                body.scrollTop(0);
                 if (cb) cb();
             }
         });
     }
 
+    function clickReferanser() {
+        scrollToTop(function () {
+            slidebars.slidebars.close();
+        });
+        $('#links a').first().trigger('click').trigger('click');
+    }
+
+    function clickDokumentasjon() {
+        scrollToTop(function () {
+            slidebars.slidebars.close();
+        });
+        $('#dokumentasjon a').first().trigger('click').trigger('click');
+    }
+
     menuLinks.click(function (event) {
         var target = event.currentTarget.getAttribute('href');
+        window.location.hash = target;
         if (target === '#') {
             event.preventDefault();
-            scrollToTop(function() {slidebars.slidebars.close();});
+            scrollToTop(function () {
+                slidebars.slidebars.close();
+            });
             return false;
         } else if (target === '#referanser') {
-            scrollToTop(function() {slidebars.slidebars.close();});
-            //slidebars.slidebars.close();
-            $('#links a').first().trigger('click').trigger('click');
+            clickReferanser();
             return false;
         } else if (target === '#dokumentasjon') {
-            scrollToTop(function() {slidebars.slidebars.close();});
-            //slidebars.slidebars.close();
-            $('#dokumentasjon a').first().trigger('click').trigger('click');
+            clickDokumentasjon();
             return false;
         }
         enableScroll();
@@ -111,10 +132,13 @@ $(document).ready(function () {
     function scrollToTarget(target) {
         var targetElm = $(target);
         if (targetElm.length) {
+            var body = $('body');
+            body.css('padding-bottom', (windowHeight - 200 - $('#sb-site').outerHeight())  + 'px');
             body.animate({scrollTop: targetElm.offset().top - menuHeight}, {
                 complete: function () {
                     fillerBlock.height(200);
-                    body.scrollTop(targetElm.offset().top - menuHeight);
+                    $('body').scrollTop(targetElm.offset().top - menuHeight);
+                    body.css('padding-bottom', '');
                 }
             });
             return false;
@@ -123,4 +147,8 @@ $(document).ready(function () {
     }
 
 
+});
+
+$(document).load(function() {
+    $('body').scrollTop(0);
 });

@@ -14,7 +14,7 @@ dokumentasjon:
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/12.kropp4.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/12.kropp5.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/12.kropp6.jpg
-  
+
 
 
 referanser:
@@ -57,7 +57,7 @@ referanser:
 ---
 
 
-##Lenker
+## Lenker
 
 * * *
 <https://no.wikipedia.org/wiki/Jackson_Pollock>

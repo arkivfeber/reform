@@ -12,7 +12,7 @@ dokumentasjon:
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/09.serSam2.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/09.serSam3.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/09.serSam4.jpg
-  
+
 
 
 referanser:
@@ -106,7 +106,7 @@ referanser:
 ---
 
 
-##Lenker
+## Lenker
 
 * * *
 <https://en.wikipedia.org/wiki/Yuri_Gagarin>
