@@ -26,7 +26,8 @@ $(document).ready(function () {
     var topbar = $('.topbar');
     var menuHeight = 50;
     var windowHeight = $(window).height() + 10;
-    var Gallery = blueimp.Gallery;
+    var Gallery = blueimp.Gallery([], {carousel: true, continuous: true});
+    Gallery.carousel = true;
 
     var fillerBlock = $('.filler-block');
 
@@ -68,9 +69,11 @@ $(document).ready(function () {
         } else {
             slidebars.slidebars.close();
         }
+        window.location.hash = '#';
+
     });
 
-    $('#tekst a').attr('target', '_blank');
+    //$('#tekst a').attr('target', '_blank');
 
 
     function enableScroll() {
@@ -109,19 +112,29 @@ $(document).ready(function () {
     }
 
     menuLinks.click(function (event) {
-        var target = event.currentTarget.getAttribute('href');
-        window.location.hash = target;
-        if (target === '#') {
+        if(this.hash) {
             event.preventDefault();
+        } else {
+            return true;
+        }
+        var target = event.currentTarget.getAttribute('href');
+        if (target === '#') {
             scrollToTop(function () {
                 slidebars.slidebars.close();
             });
+            window.location.hash = target;
             return false;
         } else if (target === '#referanser') {
             clickReferanser();
+            var scrollmem = $('html,body').scrollTop();
+            window.location.hash = target;
+            $('html,body').scrollTop(scrollmem);
             return false;
         } else if (target === '#dokumentasjon') {
             clickDokumentasjon();
+            var scrollmem = $('html,body').scrollTop();
+            window.location.hash = target;
+            $('html,body').scrollTop(scrollmem);
             return false;
         }
         enableScroll();
@@ -133,16 +146,22 @@ $(document).ready(function () {
         var targetElm = $(target);
         if (targetElm.length) {
             var body = $('body');
-            body.css('padding-bottom', (windowHeight - 200 - $('#sb-site').outerHeight())  + 'px');
+            var newBottomPadding = (windowHeight - 200 - $('#sb-site').outerHeight());
+            if (newBottomPadding > parseInt(body.css('padding-bottom'))) {
+                body.css('padding-bottom', newBottomPadding + 'px');
+            }
             body.animate({scrollTop: targetElm.offset().top - menuHeight}, {
                 complete: function () {
                     fillerBlock.height(200);
+                    window.location.hash = target;
                     $('body').scrollTop(targetElm.offset().top - menuHeight);
                     body.css('padding-bottom', '');
                 }
             });
             return false;
         }
+
+        window.location.hash = target;
         return true;
     }
 

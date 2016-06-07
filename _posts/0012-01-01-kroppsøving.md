@@ -57,7 +57,7 @@ referanser:
 ---
 
 
-## Lenker
+## Lenker<a id="lenker"></a>
 
 * * *
 <https://no.wikipedia.org/wiki/Jackson_Pollock>

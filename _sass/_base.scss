@@ -104,13 +104,13 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
+    color: #666;
     text-decoration: none;
 
     @include transition($transition-base);
 
     &:visited {
-        color: #0c65a5;
+        color: darkred;
     }
 
     &:hover {

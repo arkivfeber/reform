@@ -108,7 +108,7 @@ referanser:
 
 tekst: ja
 ---
-## isitor From the Moon
+## Visitor From the Moon
 
 
 In his lecture *Images from the Region of the Pueblo Indians of North America* (published post mortem in 1939) the German art historian and cultural theorist Aby Warburg (1866-1929) recounts his stay among the primitive indian tribes of North West America in the 1890s. In an early draft to the lecture (available in the archives of The Warburg Institute) Warburg reveals himself as an ambivalent observer to the religious and the primitive: “The Clackamas Tribe is incapable of life, crippled by a dark superstition”. In the final draft however, it becomes obvious that the maturation of his argument, in the actual process of preparing the lecture, inflected his growing admiration for primitive ritualistic practice. In an homage to the auratic aspects of a religious ceremony where The Clackamas Tribe worships a meteorite, Warburg writes:
@@ -143,7 +143,7 @@ Excerpts from a letter written to Sigmund Freud by Aby Warburg in 1890:
 Aby Warburg died in Hamburg on the 26th of October 1929. On his grave was erected an obelisk, not a reversed one as Warburg had requested, but one pointing skywards. The paperweight is today to be found at The Warburg Institute in London, where it is placed atop the complete letters of Warburg.
 
 
-## Lenker
+## Lenker<a id="lenker"></a>
 
 * * *
 <https://en.wikipedia.org/wiki/Monolith_(Space_Odyssey)>

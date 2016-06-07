@@ -100,7 +100,7 @@ referanser:
 ---
 
 
-## Lenker
+## Lenker<a id="lenker"></a>
 
 * * *
 <https://en.wikipedia.org/wiki/The_Treachery_of_Images>

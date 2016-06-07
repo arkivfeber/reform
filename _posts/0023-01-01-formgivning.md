@@ -102,7 +102,7 @@ referanser:
 
 ---
 
-## Lenker
+## Lenker<a id="lenker"></a>
 
 
 * * *

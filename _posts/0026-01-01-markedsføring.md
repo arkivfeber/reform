@@ -26,4 +26,4 @@ tekst: ja
 **Hei, hei.** (dette blir bold)
 ***Hei, hei.*** (dette blir kursiv og bold)
 
-## Lenker
+## Lenker<a id="lenker"></a>

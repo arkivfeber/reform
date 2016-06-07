@@ -85,11 +85,11 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #e74c3c;
+  color: #666;
   text-decoration: none;
   transition: all 200ms linear; }
   a:visited {
-    color: #0c65a5; }
+    color: darkred; }
   a:hover {
     color: #30a7fc; }
 
@@ -173,6 +173,14 @@ pre {
 
 .slide img {
   max-height: 500px !important; }
+
+.blueimp-gallery a:before {
+  content: "";
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  margin-left: -50px;
+  margin-top: -33px; }
 
 .container {
   background: #ffffff;
@@ -370,8 +378,9 @@ main#sb-site.home {
       z-index: 1;
       -webkit-transform: scale3d(0.95, 0.95, 0.95);
               transform: scale3d(0.95, 0.95, 0.95);
-      transition: -webkit-transform 0.3s;
-      transition: transform 0.3s; }
+      transition: -webkit-transform .3s;
+      transition: transform .3s;
+      transition: transform .3s, -webkit-transform .3s; }
       .post-list > li img:hover {
         z-index: 1000;
         -webkit-transform: scale3d(1, 1, 1);
@@ -618,8 +627,9 @@ main#sb-site.home {
   -webkit-transform: rotate(-180deg);
       -ms-transform: rotate(-180deg);
           transform: rotate(-180deg);
-  transition: -webkit-transform 0.3s 0.3s;
-  transition: transform 0.3s 0.3s; }
+  transition: -webkit-transform .3s .3s;
+  transition: transform .3s .3s;
+  transition: transform .3s .3s, -webkit-transform .3s .3s; }
 
 .sb-toggle-right {
   height: 54px;
@@ -646,8 +656,9 @@ main#sb-site.home {
     -webkit-transform: rotate(0deg);
         -ms-transform: rotate(0deg);
             transform: rotate(0deg);
-    transition: -webkit-transform 0.3s 0s;
-    transition: transform 0.3s 0s; }
+    transition: -webkit-transform .3s 0s;
+    transition: transform .3s 0s;
+    transition: transform .3s 0s, -webkit-transform .3s 0s; }
 
 ::-webkit-scrollbar {
   display: none; }

@@ -18,6 +18,15 @@
     max-height: 500px !important;
 }
 
+.blueimp-gallery a:before {
+    content: "";
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-left: -50px;
+    margin-top: -33px;
+}
+
 .container {
     background: $background-color;
     padding: 0;

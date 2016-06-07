@@ -10,7 +10,7 @@ thumb: https://dl.dropboxusercontent.com/u/65894221/Reform/REFORM_THUMBNAILS/17.
 dokumentasjon:
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/17.klasse1.jpg
   - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/17.klasse2.jpg
-
+  - https://dl.dropboxusercontent.com/u/44736485/Reform_objekter/17.klasse1.jpg
 
 
 referanser:
@@ -135,7 +135,7 @@ Maximilian Merz died from a gastric ulcer in 1999. His body was found sitting in
 *Die Schiffbrüchige* was published by Verlag Karfunkel in 2002. The original manuscript together with Merz’ typewriter and parts of the miniature model are today in the possession of The Humboldt University of Berlin.
 
 
-## Lenker
+## Lenker<a id="lenker"></a>
 
 * * *
 <http://www.merzbarn.net/hanovermerzbau.html>
