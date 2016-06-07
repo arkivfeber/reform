@@ -57,14 +57,14 @@ Håpet er at verket kan inngå i deler av undervisningen, for å sette søkelyse
 
 
 
-[## Lenker](#lenker)
+## Lenker
 
 <https://en.wikipedia.org/wiki/Denis_Diderot>
 <https://en.wikipedia.org/wiki/Encyclop%C3%A9die>
 <https://en.wikipedia.org/wiki/Jacques_Derrida>
 <https://en.wikipedia.org/wiki/Archive_Fever>
 
-##Bidragsytere
+## Bidragsytere
 
 Assistent: David Augusto Rios Alomia
 
@@ -90,7 +90,7 @@ Oppdragsgivere: Hordaland Fylkeskommune, KORO
 Kunstner: Markus Li Stensrud
 
 
-##Takk til
+## Takk til
 
 * * *
 In no order of appearance: Ida Madsen Følling, David Augusto Rios Alomia, Sissel Lillebostad, Arne Rygg, Tag Team Studio, Germain Ngoma, Bjarte Bjørkum, Sigmund Rolfsjord, Hole Glass, Hordaland Fylkeskommune, Amalie Skram videregående skole, Bjørn Lyngedal, Sara Li Stensrud, Nina Madsen, Sarah Jost, Victor Mutelekesha, Oda Stensrud, Amundsen Hobby, Wilfred Li Følling, August Følling Stensrud
