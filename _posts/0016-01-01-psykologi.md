@@ -69,7 +69,7 @@ referanser:
 ---
 
 
-## Lenker<a id="lenker"></a>
+## Lenker
 
 * * *
 <http://galleryblog.courtauld.ac.uk/2012/07/26/spotlight-on-a-masterpiece/>

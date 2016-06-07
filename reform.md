@@ -57,7 +57,7 @@ Håpet er at verket kan inngå i deler av undervisningen, for å sette søkelyse
 
 
 
-[## Lenker<a id="lenker"></a>](#lenker)
+[## Lenker](#lenker)
 
 <https://en.wikipedia.org/wiki/Denis_Diderot>
 <https://en.wikipedia.org/wiki/Encyclop%C3%A9die>

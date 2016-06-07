@@ -143,7 +143,7 @@ Excerpts from a letter written to Sigmund Freud by Aby Warburg in 1890:
 Aby Warburg died in Hamburg on the 26th of October 1929. On his grave was erected an obelisk, not a reversed one as Warburg had requested, but one pointing skywards. The paperweight is today to be found at The Warburg Institute in London, where it is placed atop the complete letters of Warburg.
 
 
-## Lenker<a id="lenker"></a>
+## Lenker
 
 * * *
 <https://en.wikipedia.org/wiki/Monolith_(Space_Odyssey)>

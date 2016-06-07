@@ -90,7 +90,7 @@ referanser:
 ---
 
 
-## Lenker<a id="lenker"></a>
+## Lenker
 
 * * *
 <https://en.wikipedia.org/wiki/Life_a_User%27s_Manual>

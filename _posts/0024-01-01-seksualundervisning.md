@@ -421,7 +421,7 @@ referanser:
 ---
 
 
-## Lenker<a id="lenker"></a>
+## Lenker
 
 * * *
 <http://www.awaken.com/2013/04/dream-interpretation-sigmund-freud/>

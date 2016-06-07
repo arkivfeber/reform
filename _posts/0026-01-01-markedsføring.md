@@ -114,7 +114,7 @@ referanser:
 ---
 
 
-## Lenker<a id="lenker"></a>
+## Lenker
 
 * * *
 <https://en.wikipedia.org/wiki/Campbell%27s_Soup_Cans>

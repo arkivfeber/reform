@@ -113,7 +113,7 @@ referanser:
 ---
 
 
-## Lenker<a id="lenker"></a>
+## Lenker
 
 * * *
 <https://en.wikipedia.org/wiki/Crash_(J._G._Ballard_novel)>

@@ -124,7 +124,7 @@ referanser:
 ---
 
 
-## Lenker<a id="lenker"></a>
+## Lenker
 
 * * *
 <http://www.guggenheim.org/new-york/exhibitions/publications/from-the-archives/items/view/211>

@@ -237,7 +237,7 @@ referanser:
 ---
 
 
-## Lenker<a id="lenker"></a>
+## Lenker
 
 * * *
 <http://io9.gizmodo.com/5940068/neuroscientists-successfully-control-the-dreams-of-rats-could-humans-be-next>

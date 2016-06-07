@@ -135,7 +135,7 @@ Maximilian Merz died from a gastric ulcer in 1999. His body was found sitting in
 *Die Schiffbrüchige* was published by Verlag Karfunkel in 2002. The original manuscript together with Merz’ typewriter and parts of the miniature model are today in the possession of The Humboldt University of Berlin.
 
 
-## Lenker<a id="lenker"></a>
+## Lenker
 
 * * *
 <http://www.merzbarn.net/hanovermerzbau.html>

@@ -86,7 +86,7 @@ referanser:
 ---
 
 
-## Lenker<a id="lenker"></a>
+## Lenker
 
 * * *
 <https://en.wikipedia.org/wiki/Maman_(sculpture)>
