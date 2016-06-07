@@ -4,7 +4,7 @@ title: Samfunnsfag
 date: '0029-01-01'
 backgrounds:
     - https://dl.dropboxusercontent.com/u/44736485/REFORM_FAGSIDE(side2)/29.Samfunnsfag2m.jpg
-thumb: https://dl.dropboxusercontent.com/u/65894221/Reform/REFORM_THUMBNAILS/29.Samfunnsfag.jpg
+thumb: https://dl.dropboxusercontent.com/u/44736485/Reform/REFORM_THUMBNAILS/29.Samfunnsfag.jpg
 
 
 dokumentasjon:

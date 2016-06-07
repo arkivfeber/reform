@@ -4,7 +4,7 @@ title: Psykologi
 date: '0016-01-01'
 backgrounds:
     - https://dl.dropboxusercontent.com/u/44736485/REFORM_FAGSIDE(side2)/16.Psykologi2m.jpg
-thumb: https://dl.dropboxusercontent.com/u/65894221/Reform/REFORM_THUMBNAILS/16.Psykologi.jpg
+thumb: https://dl.dropboxusercontent.com/u/44736485/Reform/REFORM_THUMBNAILS/16.Psykologi.jpg
 
 
 dokumentasjon:

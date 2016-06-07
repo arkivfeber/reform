@@ -4,7 +4,7 @@ title: Helse & oppvekstfag
 date: '0021-01-01'
 backgrounds:
     - https://dl.dropboxusercontent.com/u/44736485/REFORM_FAGSIDE(side2)/21.HelseOppvekstfag2m.jpg
-thumb: https://dl.dropboxusercontent.com/u/65894221/Reform/REFORM_THUMBNAILS/21.HelseOppvekstfag.jpg
+thumb: https://dl.dropboxusercontent.com/u/44736485/Reform/REFORM_THUMBNAILS/21.HelseOppvekstfag.jpg
 
 
 dokumentasjon:
