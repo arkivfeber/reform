@@ -3,7 +3,7 @@ layout: post
 title: Reform
 about: true
 
-thumb: https://dl.dropboxusercontent.com/u/44736485/Reform/REFORM_THUMBNAILS/01.Astronomi.jpg
+thumb: https://dl.dropboxusercontent.com/u/44736485/REFORM_THUMBNAILS/01.Astronomi.jpg
 date: '0000-01-01'
 backgrounds:
   - https://dl.dropboxusercontent.com/u/44736485/REFORM_FAGSIDE(side2)/34.Reform_infobakgrunn.jpg

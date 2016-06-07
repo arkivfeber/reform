@@ -4,7 +4,7 @@ title: Matematikk
 date: '0023-01-01'
 backgrounds:
     - https://dl.dropboxusercontent.com/u/44736485/REFORM_FAGSIDE(side2)/23.Formgivning2m.jpg
-thumb: https://dl.dropboxusercontent.com/u/44736485/Reform/REFORM_THUMBNAILS/23.Formgivning.jpg
+thumb: https://dl.dropboxusercontent.com/u/44736485/REFORM_THUMBNAILS/23.Formgivning.jpg
 
 
 dokumentasjon:

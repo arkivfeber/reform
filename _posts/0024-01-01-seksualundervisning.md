@@ -4,7 +4,7 @@ title: Seksualundervisning
 date: '0024-01-01'
 backgrounds:
     - https://dl.dropboxusercontent.com/u/44736485/REFORM_FAGSIDE(side2)/24.Seksualundervisning2m.jpg
-thumb: https://dl.dropboxusercontent.com/u/44736485/Reform/REFORM_THUMBNAILS/24.Seksualundervisning.jpg
+thumb: https://dl.dropboxusercontent.com/u/44736485/REFORM_THUMBNAILS/24.Seksualundervisning.jpg
 
 
 dokumentasjon:
