@@ -75,7 +75,7 @@ Sveising: Germain Ngoma
 Fotograf: Bjarte Bjørkum
 
 ***
-Webdesign: Sigmund Rolfsjord
+Webdesign: Sigmund Rolfsjord, Markus Li Stensrud
 
 ***
 Glassmester: Hole Glass
