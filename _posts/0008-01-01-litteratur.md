@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Litteratur
+title: Kunsthistorie
 date: '0008-01-01'
 backgrounds:
     - https://dl.dropboxusercontent.com/u/44736485/REFORM_FAGSIDE(side2)/08.Litteratur2m.jpg

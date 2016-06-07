@@ -43,6 +43,9 @@
             <li>
                 <a href="{{ page.next.url | prepend: site.baseurl }}">Neste: {{page.next.title}}</a>
             </li>
+            <li>
+                <a href="{{ page.previous.url | prepend: site.baseurl }}">Forrige: {{page.previous.title}}</a>
+            </li>
             {% endif %}
 
             <li>
