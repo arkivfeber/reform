@@ -121,21 +121,21 @@ $(document).ready(function () {
         if (target === '#') {
             scrollToTop(function () {
                 slidebars.slidebars.close();
+                location.replace(target);
             });
-            location.replace(target);
             return false;
         } else if (target === '#referanser') {
             clickReferanser();
-            //var scrollmem = $('html,body').scrollTop();
+            var scrollmem = $('html,body').scrollTop();
             location.replace(target);
-            //$('html,body').scrollTop(scrollmem);
+            $('html,body').scrollTop(scrollmem);
             return false;
         } else if (target === '#dokumentasjon') {
             clickDokumentasjon();
-            //var scrollmem = $('html,body').scrollTop();
+            var scrollmem = $('html,body').scrollTop();
             //window.location.hash = target;
             location.replace(target);
-            //$('html,body').scrollTop(scrollmem);
+            $('html,body').scrollTop(scrollmem);
             return false;
         }
         enableScroll();
@@ -153,9 +153,9 @@ $(document).ready(function () {
             }
             body.animate({scrollTop: targetElm.offset().top - menuHeight}, {
                 complete: function () {
-                    //fillerBlock.height(200);
+                    fillerBlock.height(200);
                     location.replace(target);
-                    //$('body').scrollTop(targetElm.offset().top - menuHeight);
+                    $('body').scrollTop(targetElm.offset().top - menuHeight);
                     body.css('padding-bottom', '');
                 }
             });
