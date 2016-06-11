@@ -73,7 +73,7 @@ $(document).ready(function () {
 
     });
 
-    //$('#tekst a').attr('target', '_blank');
+    $('#tekst a').attr('target', '_blank');
 
 
     function enableScroll() {
