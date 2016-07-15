@@ -81,6 +81,9 @@ referanser:
 <http://www.nytimes.com/1991/12/21/arts/new-explanation-given-for-van-gogh-s-agonies.html>
 
 * * *
+<https://www.nrk.no/kultur/skisse-viser-hvor-mye-av-oret-van-gogh-skar-av-1.13041302>
+
+* * *
 <http://www.amazon.com/Stranger-The-Earth-Psychological-Biography/dp/0306807262>
 
 * * *
