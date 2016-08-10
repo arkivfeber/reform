@@ -121,20 +121,22 @@ $(document).ready(function () {
         if (target === '#') {
             scrollToTop(function () {
                 slidebars.slidebars.close();
-                location.replace(target);
+                window.location.hash = target;
+                //location.replace(target);
             });
             return false;
         } else if (target === '#referanser') {
             clickReferanser();
             var scrollmem = $('html,body').scrollTop();
-            location.replace(target);
+            window.location.hash = target;
+            //location.replace(target);
             $('html,body').scrollTop(scrollmem);
             return false;
         } else if (target === '#dokumentasjon') {
             clickDokumentasjon();
             var scrollmem = $('html,body').scrollTop();
-            //window.location.hash = target;
-            location.replace(target);
+            window.location.hash = target;
+            //location.replace(target);
             $('html,body').scrollTop(scrollmem);
             return false;
         }
