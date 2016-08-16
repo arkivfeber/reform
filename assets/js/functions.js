@@ -132,6 +132,7 @@ $(document).ready(function () {
             });
             return false;
         } else if (target === '#referanser') {
+            clickReferanser();
             var scrollmem = $('html,body').scrollTop();
             //window.location.hash = target;
             location.replace(target);
