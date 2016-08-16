@@ -23,10 +23,12 @@
     position: absolute;
     width: 100px;
     height: 150px;
-    margin-left: -75px;
-    margin-top: -33px;
+    margin-left: -60px;
+    margin-top: -50px;
 }
-
+.blueimp-gallery a.prev:before {
+    margin-left: -20px;
+}
 .container {
     background: $background-color;
     padding: 0;
