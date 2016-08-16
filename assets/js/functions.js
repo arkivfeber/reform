@@ -19,6 +19,12 @@ function scrollSteps(imagesNumber) {
 }
 
 $(document).ready(function () {
+    //window.onhashchange = function (){
+    //    console.log('BLABLABL' + window.location.hash);
+    //    if(window.location.hash == '#referanser') {
+    //        clickReferanser()
+    //    }
+    //};
     var slidebars = new $.slidebars();
     var showingText = false;
 
@@ -121,22 +127,21 @@ $(document).ready(function () {
         if (target === '#') {
             scrollToTop(function () {
                 slidebars.slidebars.close();
-                window.location.hash = target;
-                //location.replace(target);
+                //window.location.hash = target;
+                location.replace(target);
             });
             return false;
         } else if (target === '#referanser') {
-            clickReferanser();
             var scrollmem = $('html,body').scrollTop();
-            window.location.hash = target;
-            //location.replace(target);
+            //window.location.hash = target;
+            location.replace(target);
             $('html,body').scrollTop(scrollmem);
             return false;
         } else if (target === '#dokumentasjon') {
             clickDokumentasjon();
             var scrollmem = $('html,body').scrollTop();
-            window.location.hash = target;
-            //location.replace(target);
+            //window.location.hash = target;
+            location.replace(target);
             $('html,body').scrollTop(scrollmem);
             return false;
         }
