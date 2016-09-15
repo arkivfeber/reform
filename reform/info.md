@@ -66,6 +66,9 @@ Håpet er at verket kan inngå i deler av undervisningen, for å sette søkelys 
 
 ## Bidragsytere
 
+Kunstner: Markus Li Stensrud
+
+***
 Assistent: David Augusto Rios Alomia
 
 ***
@@ -75,7 +78,10 @@ Sveising: Germain Ngoma
 Fotograf: Bjarte Bjørkum
 
 ***
-Webdesign: Sigmund Rolfsjord, Markus Li Stensrud
+Webutvikler: Sigmund Rolfsjord
+
+***
+Webdesign: Markus Li Stensrud
 
 ***
 Glassmester: Hole Glass
@@ -85,9 +91,6 @@ Kunstkonsulenter: Sissel Lillebostad, Arne Rygg
 
 ***
 Oppdragsgivere: Hordaland Fylkeskommune, KORO
-
-***
-Kunstner: Markus Li Stensrud
 
 
 ## Takk til
