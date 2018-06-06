@@ -3,11 +3,11 @@ layout: post
 title: Reform
 about: true
 
-thumb: https://dl.dropboxusercontent.com/u/44736485/REFORM_THUMBNAILS/01.Astronomi.jpg
+thumb: /assets/images/REFORM_THUMBNAILS/01.Astronomi.jpg
 date: '0000-01-01'
 backgrounds:
-  - https://dl.dropboxusercontent.com/u/44736485/REFORM_FAGSIDE(side2)/34.Reform_infobakgrunn.jpg
-  - https://dl.dropboxusercontent.com/u/44736485/REFORM_FAGSIDE(side2)/01.Astronomi2m.jpg
+  - /assets/images/REFORM_FAGSIDE(side2)/34.Reform_infobakgrunn.jpg
+  - /assets/images/REFORM_FAGSIDE(side2)/01.Astronomi2m.jpg
 
 
 tekst: ja
