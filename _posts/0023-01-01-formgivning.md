@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Matematikk
+title: Formgivning
 date: '0023-01-01'
 backgrounds:
     - /assets/images/REFORM_FAGSIDE(side2)/23.Formgivning2m.jpg
